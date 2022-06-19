@@ -8,7 +8,11 @@
 {% block content %}
 
     <div class="pcoded-content">
-    <form action="/" method="POST" enctype = "multipart/form-data">
+
+    <div class="loading mt-5">
+    </div>
+    <div class="content">
+        <form action="/" method="POST" enctype = "multipart/form-data">
         <div class="pcoded-inner-content upload-container image-upload">
             <!-- [ breadcrumb ] start -->
                 <button type="button" class="btn btn-md w-100 h-100 p-3 upload-center">
@@ -17,7 +21,7 @@
                     </label>
                     <input id="fileUpload" name="fileUpload" type="file"/>
                     <br>
-                    <span class="button-text">Upload file for analyzing (<code>.csv</code>, <code>.txt</code>) </span>
+                    <span class="button-text">Upload file for analyzing (<code style="color: #ff5252;"><b>.txt</b> </code>) </span>
                 </button>
 
             <!-- [ breadcrumb ] end -->
@@ -25,7 +29,7 @@
         <div class="container-fluid accordion" id="accordion">
             <div class="card">
                 <div class="card-body collapse show">
-                    <button type="submit" class="btn btn-square btn-info proceed-btn-center p-3" id="loadText">Proceed</button>
+                    <button type="submit" onclick="loading();" class="btn btn-square btn-info proceed-btn-center p-3 mb-3" id="loadText">Proceed</button>
                     <br>
                     <input type="file" class="form-control-file" name="fileUpload" id="fileUpload">
                     <textarea class="form-control" name="textArea" id="textArea" rows="6" placeholder="Or alternatively, copy the text here."></textarea>
@@ -68,7 +72,7 @@
         </div>
 
         </form>
-
+    </div>
     </div>
 
 
@@ -80,4 +84,10 @@
     <script src="../../static/file_operations/main.js"></script>
     <script src="../../static/file_operations/import.js"></script>
     <script src="../../static/file_operations/metadata.js"></script>
+    <script type="text/javascript">// <![CDATA[
+        function loading(){
+            $(".loading").show();
+            $(".content").hide();
+        }
+// ]]></script>
 {% endblock javascripts %}

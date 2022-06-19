@@ -1,0 +1,1090 @@
+,SID,lemmatized,negative - AMBIENCE#GENERAL,negative - DRINKS#PRICES,negative - DRINKS#QUALITY,negative - DRINKS#STYLE_OPTIONS,negative - FOOD#PRICES,negative - FOOD#QUALITY,negative - FOOD#STYLE_OPTIONS,negative - LOCATION#GENERAL,negative - RESTAURANT#GENERAL,negative - RESTAURANT#PRICES,negative - SERVICE#GENERAL,neutral - AMBIENCE#GENERAL,neutral - DRINKS#PRICES,neutral - DRINKS#QUALITY,neutral - FOOD#PRICES,neutral - FOOD#QUALITY,neutral - FOOD#STYLE_OPTIONS,neutral - LOCATION#GENERAL,neutral - RESTAURANT#GENERAL,neutral - RESTAURANT#PRICES,neutral - SERVICE#GENERAL,positive - AMBIENCE#GENERAL,positive - DRINKS#QUALITY,positive - DRINKS#STYLE_OPTIONS,positive - FOOD#PRICES,positive - FOOD#QUALITY,positive - FOOD#STYLE_OPTIONS,positive - LOCATION#GENERAL,positive - RESTAURANT#GENERAL,positive - RESTAURANT#MISCELLANEOUS,positive - RESTAURANT#PRICES,positive - SERVICE#GENERAL
+0,1000:0,manzara sahane evet servis rezalet,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1,1000:1,soguk su istemek soguk yok butun sulari disari cikardik demek garson siparisten saat gelmek yemek yemegin yaninda soylenen roka pure esmek olmamasi istedigimiz meze kalmamis olmasi,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1000:2,yemek iyi hos lezzet iyi heyecan veri bi taraflari yok iyi baligi iyi sekil izgara artik at dev bi olay degil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+3,1000:3,servis fiyat cok fazla,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,1000:4,lacivert kalite dusukluguyle cok sasirtti,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1001:1,bura iyi yorum yapmak önce balik yemek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1001:2,kalamar kola önce balik gelmek apar topar ön atildi,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,1001:3,ayrica gelmek kalamar soguk sünger gibi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1001:4,uz lafin kisasi kesinlikle gitmek tavsiye etmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,1001:5,önce söyledigim büyümek kalite düse yer,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,1002:0,kesinlikle ev yemegi degil basari ev yemek olmasina ragmen ögle saat yogunlugu çözebilmis degilim,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1002:1,i̇nsa gerçek ev yemeginin nasil oldugunu bilmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1002:2,kere denemek gitmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1002:3,kere denedigim fiyatlarinin yüksek yemek lezzet oldugu mekân önermek,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1003:0,mekân giriş kasap reyon ışıltı sıcak orta yaramak çalışmak manzara olmak bulunmak konu samî bulmak,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,1003:1,garson ilgi söyledikce yapmak budamak restaurant beklenti zayıflamak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1003:2,lokum iyi yedi küşleme güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+17,1003:4,bilmek mekân şans vermek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,1004:0,sene önce hız kahvaltı gelmek mekân dair hatır kalmak tl lik çay,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,1004:1,menü dikkat etmek hesap gelmek ufak şok yaşamıştık😩 güzel olmak kahvaltı fazla ödemek çay yüz uğramak,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+20,1005:0,şatobiryanı önermek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+21,1005:1,sos tereyagli yumusak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+22,1005:2,sert et sevmek icin cok lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+23,1005:3,guvecte yogurt salata iyi uclu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+24,1005:4,servi hizli vale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+25,1005:5,acik mekân gardenya bolu guzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+26,1005:6,kalabalik icin ideal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27,1006:1,bugun çalışmak arkadasin yonlendirmesiyle siyah caylardan bourbon vanilla ictik,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,1006:2,vanilya tadi gerçek bay hissediliyodu beyaz caylarini cok begenmistim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+29,1006:3,orta güzel özellikle rahat oturmak köşeleri👌 esas kahve sever oldugum icin cok tercih ettigim mekân değmek degisiklik icin guzel olmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+30,1007:0,yoğ olmak gün cumartes pazar gitmek tavsiye etmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,1007:2,şube iyi pendik merkez an şube iyi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+32,1008:0,bugün dışarı yemek lezzet kurufasülyeci,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+33,1008:2,fasulye ağız dağılmak âdeta lokum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+34,1008:3,duymak kadar su değmek süt beklemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,1008:4,yanında turşu cacık yoğurtlamak harika,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+36,1008:5,pilâv lezzet mis tereyağ kokmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+37,1008:6,final sütlaçla yapmak tavsiye etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+38,1008:7,sütlâç enfes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+39,1009:0,hard rock cafe sır beklemek oturmak alışık değil avrupa amerika dakilerle aynı duygu vermek sebeple lezzet aynı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+40,1009:1,atıştırmak jumbo combo yummy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+41,1010:0,deniz ürün başarı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+42,1010:1,manzara mükemmel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+43,1010:2,bütün i̇stanbul güzel yoğun hissetmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+44,1010:3,dış öğrenci mekân değmek,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,1010:4,özel gün gitmek küçük kutlamak yapmak yer,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,1011:0,rahat sohbet etmek istemek orta mükemmel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+47,1011:1,çalmak müzik kıvam rahat etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+48,1011:2,yemek lezzet manzara mükemmel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+49,1011:3,hesap abartı gelmek balık yemek kişi baş lira fazla ödemek itiraz etmek gerekmek,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,1012:0,kalabalik zaman servis fazlasiyla aksiyor,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,1012:1,bosken soylemis oldugum makarna hizli gelmek mekanin dolmasiyla arkadasimin soylemis oldugu siparis unutmak defalarca hatirlatma yapmamiz gerekmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,1012:2,ayrica masalarin fazla ic ice olmasi zaman zaman rahatsiz olmaniza olmak,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,1013:0,kış ay içeri sıcak loş işık ortam güzel yemek yemek yazmak dışarı harika çilek magnolia tatmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+54,1013:1,i̇çinizi serinlemek enfes tat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+55,1014:0,garson suratsiz,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,1014:1,methetmek hakketmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,1014:2,kasarli köfte iç kasmak köfte ustasi geçinmek yer,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,1014:5,islemek sahib kâp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,1014:6,kasarli köfte tanimimiz böyle demek sade,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,1014:7,müsteri memnuniyet sifir,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,1015:0,yıl sampi si can pi istemek ev sipariş tercih etmek yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+62,1015:1,zaman keşke başlangıç menü yer almak,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,1015:2,beşiktaş otobüs durak arka olmak dolayı ulaşım kolay fiyat makul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+64,1015:4,çıtır pi seven dolayısıyla sipariş vermek özellikle rica et gerçek çitir çitir pi gelmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+65,1015:5,maalesef birlik gitmek arkadaş sevmek çıtır pide o çıtır gelmek,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,1015:8,tat paket servis iyidi netice beklemek yem imkân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+67,1015:9,malzeme bol porsiyon kıvam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+68,1016:0,beşiktaş in göbek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+69,1016:2,deney maalesef olumlu olmak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,1016:4,sevmek yemek kenar orta leziz,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+73,1016:5,başlangıç menü başlangıç yer ala lahmacun an yiyecek pide geçmek gelmek olmak ayrı bi duru,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,1016:6,yemek yemek fazla vakit bütçe sarsmak keyif yemek yemek yetmek karın doymak düşünmek çarşı nın göbek sampi gayet ideal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+75,1017:4,sicak iceceklerde servis agir kahvalti icin tercih edilwbilir lezzet gore fiyat yuksek kaliyor,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+76,1018:0,mutlaka haf önceden rezarvasyon yapmak iyi rum meyhane yemek başarı olmak şahane manzara mekân büyük olay sürek i̇kram yapmak pahalı olmak rağmen hak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+77,1018:1,mutlaka ızgara mantar istakoz kavurma deney gitmek hiçbir zaman pişman olmak ender yer biri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+78,1019:0,baliklarin yanina rum ermeni mutfagindan meze yakisiyor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+79,1019:1,kuskonmaz somo sarmak kagitta balik pastirma kesinlikle denemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+80,1020:0,caylar harika,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+81,1020:2,vanilla portakal aromasina doyamayacaginiz harika lezzet olmus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+82,1020:3,orta muhabbet etmek icin gayet guzel manzara beklenti bask yer tercih etmek,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+83,1020:4,tamina farkli cesit caymak bulabileceginiz mekani ziyaret etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+84,1021:0,hoş bi mekân sevmek gitmek ayrılmak memnuniyet ayrılmak zaman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+85,1021:1,özellikle akşamları gitmek tavsiye eder köprü hisar işık yanmak ayrı bi zevk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+86,1021:2,hemde can müzik,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+87,1022:0,iyi,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,1022:1,buranin doneri demek efsane degil,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,1022:2,et yagli kokmak in dilinmis kotusu ara saat gecmesine ragmen migdem bulaniyor,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,1022:3,ortami begenmedim kalabalik sinif yer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,1023:0,et lezzet mekân gösteriş,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+93,1023:1,sunu resmen sıfır,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,1023:2,tl almak hamburger düzmek beyaz tabak koymak öte gitmek bence,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,1023:3,havuç dilim aşırı yağ şerbet,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,1023:4,yaramak özel yan yok,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,1024:0,pazar günü kahvaltı dış servis yapmak big chefs,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,1024:1,kahvaltı sonra kahve içmek gitmek kapı dönmek saat du şaka sand an,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,1024:2,olmak big chefs zincir,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,1025:2,menude yazilmis olmasina ragmen tavuk wrapimiz patates gelmek neden sordugumuz patates kaldirdiklarini menulerini henuz degistirmediklerini soylediler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,1025:3,gelen tavuk wrapten dakika kofte duru istemek ragmen tavuk sis dürümu gelmek duru soyledik degistirdiler,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,1025:4,tavuklar kupkuru kofte duru siradandi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,1025:5,ikisininde yanindaki yesillikler susmak icin konulmus yemek kalktigimizda aci bi tat karsilastik,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,1025:6,zeytinyagli tabagi soyledik icinde fasulye barbunya biber dolmasi sarmak saksuka varit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,1025:7,tadlari yer koymak icin bayagi bi zorlamislar kendi,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+106,1025:8,fiyat normal servis cok yavaş tuvalet pis,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+107,1026:0,güzel tek sey manzaraydi evet çocuk oyun alani bakimsiz servis elemanlari suratsiz hele omlet yapmak bayan oturdugum masa dip gelen surat tavir böyle birsey görmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+108,1026:1,açik büfe kahvaltisi evet çesit çok sunu tatmin etmek temiz hijyen hissî uyandirmadi,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+109,1027:0,hos mekân mekân yaklasik aydir tuzlamak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+110,1027:1,gitmek iyi yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+111,1027:2,ilk açildigi aymak gittigimizde memnun kalmistik sonra gidislerimizde servi fazla aksadigina garsonlarin yogunluk neden ilgilenmek gözlemlemek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,1027:3,sayida garson çalisiyor mekân dolu olunca yetmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,1027:5,klâsik donmak spesiyal tatlililari,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,1028:0,i̇nternet arastirip gittigim yer maalesef beklenti karsilamadi,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,1028:1,garson istediginiz se kere istemek maalesef getirmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,1028:2,i̇nternet resim göründügü güzel degildi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,1029:1,su böregi olmak lezzet imek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+118,1029:2,çay kötü mü,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,1029:3,hayir taze lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+120,1029:4,beklenti üst,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+121,1030:0,yön ideal okul yakin oldugu sikmek gittigimiz yer muhtesemdir manzarasi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+122,1030:3,yazin zevk manzara karsi oturmasi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+123,1030:4,marmara ögren indirim fiyat uygulamasi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+124,1030:5,yüz avantajli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+125,1030:6,gözlem yapmak teyze yil kumpir servi basladilar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+126,1030:7,kuaför ucuz iyi ayrica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+127,1031:0,güzel manzara fiyat performans mutfak yeterli değmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+128,1031:1,ün olmak reklâm bağlamak iyi deniz ürün uygun fiyat yemek sürümek yer i̇stanbul,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,1031:2,para çok deney şart değmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,1032:0,döner güzel ok giderek kalabalik hale sisen restoran omuz o kol kipirdatamadan fe gürültü iç yemek yemek zor kaliyorsunuz,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+131,1033:0,sicak orta yer iyi olmak zevk dösenmis yemek sunu tat açisindan tatmin edi renk mekân,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+132,1033:1,sira beklemek olayi kötü,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+133,1034:0,aci sevmek uygun mekân degil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,1034:1,manzara muhtesem orta güzel karisik köfte tabagi acil köfte geliyorsa fajita aciysa uygun degil,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+135,1035:0,sade meze yemek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+136,1035:1,haf gelmek çalışmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+137,1035:2,bütün balık değişik sos pişirmek getirmek durmak demek meze gelmek devam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+138,1035:4,balık fast food yenmek yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,1035:5,yavaş yavaş balık keyfî ister önermek,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,1035:7,mısır ekmek sıcacık bayılmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+142,1036:0,çeşit çay ruh dinlenmek müzik keyif orta hayal kırık yaramak mizuno pudding fark alt taraf çay içmek hesap şimdi demek hesap,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+143,1036:2,keyif almak yok yok çay para değmek demek övmek övmek bitirmek mizuno pudding beğenmek,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+144,1037:1,şimdi gelmek demek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+145,1037:2,servis olmak memnun kalmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+146,1037:3,er saat gitmek akşamları romantik yemek olmak ideal mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+147,1038:0,gün saat gitmek kalaba kurtulmak mümkün değmek,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,1038:1,çoluk çocuk toplamak ev hanım grup mekân ilgi azalmak,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,1038:2,garson iyi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+150,1039:0,ansiklopedi kalinliginda menu getirmek siparisinizi vermek istediginizde yok uok su kalmadi sek ifade birturlu istediginiz tatliyi yiyemediginiz mekân islemek konu ilettiginizde birseyleri olmadigini buyuk rahatlikla dilemek getirmek garsonlarinin sattiklari urunden haberdar olmayip istek gec yanlis getirmeleride cabasi,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,1039:1,kesinlikle tavsiye etmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,1040:0,diğer şube efsane hikâye art defalarca belirli sebep gelmek eleos bence cidden abartmak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+153,1040:1,yeşilköy şube bilmek bura standart üzerinde fiyat bence saçmak,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,1040:2,ayrı fix menü zorlamak sinir bozmak uygulamak normal duru,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,1040:3,meze vasat üzerinde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,1040:4,balkon teras bölüm cidden küçük,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+157,1041:0,zaman gittigim servi zaman igrenc mekân artiik iyi rezalet sinirlarini zorlamis,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,1041:1,mekanin islemek bey tavri tarzi konusmasi uslubu terbiye yer,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,1041:2,mekanin populerligi yuzunden rahatlamak sanir rahatlikla populerligi kisa sure kaybetmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,1041:3,i̇stanbul tek manzara goren yer olmak beraber yemekleride son derece lezzet,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,1041:4,saat sultan sofrasida kurmak islemek mekân adimimi atmak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,1042:0,yemek super lezzet ogle yemeginde cok kalabalik saat sonrasinda rahat,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+163,1042:1,tabaga farkli cesit istemek ozellikle bugday salatasi havuc salatasi muhtesem mutlaka deney,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+164,1043:0,i̇stanbul baklava adres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+165,1043:1,karaköy eminönü geçer uğramak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+166,1043:2,sade baklava değmek karışık tabak yapmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+167,1043:3,çikolata baklavayıda özellikle bayan tavsiye eder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+168,1044:0,yurtdisindan gelen misafir memnun etmek manzarasiyla meze yemek begenimi kazanmis gelinir tadilir ca muzikler guzel ayari sohbet hos fon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+169,1045:0,burayi sevmek gerçek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+170,1045:2,hersey lezzet statü yakin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+171,1045:3,keyif vakit geçirmek emin o,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+172,1046:0,bira dış başka içmek istemek mekân bira lira iken votka şarap,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+173,1046:1,dış belirli saat müzik sağır edi seviye u,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,1047:0,balık has meze ön plan çıkmak alkol balık,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+175,1047:1,meze gerçek standart üzerinde mekân neredeyse gün akşam saat yoğ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+176,1047:2,hari çalışmak ilgiside gayet iyi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+178,1048:1,combo tabak hayal gitmek şaka iç üç parça lezzet tabak gelmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,1048:2,hamburger vasat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,1048:3,kötü,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,1049:0,sütiştir demek kahvaltı yapmak demek pişman olmak valla,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,1049:1,porsiyon küçük fiyat pahalı,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,1049:2,garson ilgi çay kötü,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,1049:3,tatlı yemek gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+185,1049:4,manzara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+186,1050:0,egzotik çay sevmek mutlaka uğramak gerekmek mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+187,1050:1,bourbon vanilla irish malt tavsiye etmek çay ara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+188,1050:2,servis kalite çalışmak inanmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+189,1050:3,sevmek çay bazı paket satmak almak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+190,1050:4,mekân müzik seçim harika,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+191,1050:5,inanmak kalaba olabiliyor hâl ö gün servis aksak yaşamak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,1051:0,mekân güzel ferah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+193,1051:1,servis hız,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+194,1051:2,fazla çeşit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+195,1051:3,çeşitlemek kebap alaka olabiliyor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,1051:4,fiyat makul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+197,1051:5,yemek lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+198,1052:0,manzara güzel yemek güzel servis berbat,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+199,1052:1,dem çay içmek istemek musluk su yapmak küf kokmak,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,1052:3,kısa berbat,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,1053:2,mekani güzel çesitler inanilmaz derece bol lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+202,1053:3,servi gayet iyi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+203,1053:4,tesis fetih pas korulugunun iç yer aliyor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,1054:0,et kalite ortalama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,1054:1,lezzet ortalama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,1054:2,ney kıyas beğenmek merak etmek açıkçası,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,1054:3,mekân güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+208,1054:4,et para hak etmek,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,1055:0,kuru fasulye gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+210,1055:1,güzel yapmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+211,1055:2,pilâv ayran eş iyi menü,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+212,1055:3,servis konu personel memnun değil konu kendi i̇nş,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,1056:0,mart ayin son gun bugun berbatti burasi,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,1056:2,normal sevdigim kahvalticiydi bgn yedigimi anladim bisi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,1057:0,gitmek karar düşmek üzere kurtarmak mekân kütük ev,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+218,1057:1,i̇çeriden dışarı dağ evin anmak egzotik hava sahip mekân servis nispeten hız fiyat pahalı değmek bahçe güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+219,1057:2,kışın tercih etmek yer yazmak gitmek gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+220,1058:0,sunduklari lezzet göstermek ilgi küçük ev saye güzel ak geçirmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+221,1058:1,ardindan begendigim döner,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+222,1058:10,güzel sikmek ferah ortami,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+223,1058:11,özellikle restorantin ortasindaki agaç hosuma gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+224,1058:13,agaci korumak gösterdiginiz çaba kesinlikle islemek sayginligini fazlasiyla arttiracaktir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+225,1058:14,hazir ürün yöre üretim ürün kullaniyor oluslari hosuma gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+226,1058:15,trabzon rize gelen kavurma yapilan kasarli kavurmali pi aldi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+227,1058:16,harikaydi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+228,1058:2,gayet lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+229,1058:3,bence bura yol düserse döner kavurmali pide kesin deneme önermek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+230,1058:4,diger yediklerimizide begendim güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+231,1058:5,üretim manda yogurtlarinida deneme fay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+232,1058:6,tatlilardan kazandibi kaymakli ayva tatlisini begendim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+233,1058:7,fiyat sunmak hizmet kalite merkez konum dolayi uygun sayilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+234,1058:9,öncelikle ortamini begendim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+235,1059:0,umdugumu degil buldugumu yedi arkadaslarim övmek gelmek yedi bitirmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,1059:1,güzel degildi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,1059:2,damak tadima hitap etmek açikçasi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,1059:3,biberlemek kizartilmadan atilmis iç,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,1059:4,bol yumurtali parça domates atilmis iç,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,1059:5,âdeta menemen degil biber omlet olmus,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,1059:6,açik ayrani fena degildi,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,1059:7,begendim demek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+243,1060:0,manzara disinda deneyimlemek yemegi yok gerek pahali verdiginiz para degmeyen menus aslinda yok cunku cesit yok,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+244,1060:1,hamburger denemek demek tl sunu berbat hamburger lezzet degil saoganlar karamelize degil sade patates kizartmasi guzel mc donalds yeyin,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+245,1061:0,dü gitmek yeni kahvalti etmek firsati buldugum yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+246,1061:2,arkadasim yasindaki oglum rahatlikla doymak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+247,1061:3,kahvalti tabagi gelen çay ücret,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+248,1061:4,yukaridaki masa ek bardak çay su dahil tl ücret ödemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+249,1061:5,kahvalti tabagi tl menemen tl patates tl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,1062:0,sani i̇stanbul dört köse yayilmis duru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+251,1062:1,yakinimda olmasina ragmen sikmek gitmek tercih etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,1062:2,et eyvallah fiyat konu uçuklamak,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+253,1062:3,ortamini sikmek hale dönüstürürlerse fazla müsteri çekmek emin,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,1063:0,lezzet çay çeşit bulmak güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+255,1063:1,karaköy dar sokak ara sokak koymak masa i̇nsa fark atmosfer sürüklemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+256,1063:2,servis özen güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+257,1063:3,müşteri genç kit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+258,1063:4,kül tabla dolu pis durmak starbucks i hatırlamak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+259,1064:0,manzara tabikide yıldız,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+260,1064:1,dekorasyon güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+261,1064:2,sabır deniz yakı olay demek iyi şans beklemek muamma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,1064:3,tek kötü yan olabilir bura açım,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,1064:4,fiyat gerçek tıkmak üst manzara göz defa kör görmez gelebiliyorum,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+264,1064:5,aşk i memnu tatmak kalmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+265,1064:6,bura mutlaka deney kuş yuva yenmek zor tatlı güzel alternatif,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+266,1065:0,yazmak dısarıda yer bulmak epey zor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,1065:1,kızarmak combo harika,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+268,1065:2,sürek kalabalik neden servis oldukca yavas,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,1065:3,hesap gelmek yarı saat sürmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,1066:0,sade ün iş ibaret,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,1066:1,para almak davranmak panpa konsept esinmesi bülent ersoy fevk,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,1067:0,arkadaş yazmak baş gitmek döner kısım oturmak dakika sipariş almak gelen olmak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,1067:2,bi dakka beklemek iş görmek tarz fırça,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,1068:0,evet yemek lezzet orta guzel haf son gittigimiz icin mi bilmemm cok kalabalikti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+275,1068:1,calisanlar degildi hesabî garson soylememize ragmen yâr saat gelmek abartisiz,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,1069:0,içecek çeşitli konu yeter fiyat tartışmak çevre göre ucuz,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+277,1069:1,civar sıcak bunalmak serinlemek istemek boğaz kenar masa biri oturup can müzik eş soğuk birşey içebilirsiniz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+278,1069:2,türk kahve fena değmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+279,1070:0,manzarasi dizayni guzel garson ilgi porsiyon cok kucuk pahali,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+280,1070:2,lezzet eh is,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+281,1070:3,ozetle manzara disinda bisey yok,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+282,1071:0,happy hour icin vazgecilmez nokta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+283,1071:1,bence burger pizzasi kanyon yemek acik ara iyi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+284,1071:2,zincirlemek icinde tek tercih etmek yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+285,1072:0,adi pizzaci yazik pizza ortalama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+286,1072:1,popüler oldugunu anlamiyorum,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,1073:0,num num gerçegi yediginiz hersey hak vermek gerçek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+288,1073:1,yemek doyuruculugu lezzet tartisilmaz ögle saat yer bulmak olmak sikintili,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+289,1074:0,manzara sufle bayildik,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+290,1074:1,karsida isiklariyla rumeli hisari köprü manzarasi esliginde aksamüstü big chefs te oturmak keyif,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+291,1074:2,sufle lira çay lira,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,1075:2,sulu yemek yok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,1075:3,genç ögren fiyatlari uygun tutmuslar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+294,1075:4,lahmacun döner burger pi köfte çesitleri mevcut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+295,1076:0,iftar menü tl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,1076:1,ezogelin çorba tuz,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,1076:2,er servis edildigi iftar sogudu,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,1076:3,iç köfte pirzola güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+299,1076:4,servis elemanlari yeter oldugu yavasti,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,1076:5,seyden öte böyle mekân tuvalet yakismiyor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,1077:0,yer düş içecek bardak geliyor garson surat islak mendil bulunmak sebep yer bura olmak böyle,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,1078:1,civar restorant fark yok servi yavaş,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+304,1079:0,deniz ürün karışmak ön getirmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,1079:1,açıkçası hicbirinin tat alamiyorsunuz,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,1079:2,balik deniz ürün sevmek balik kfcsi kıvam olmak kızarmak bol olmak sevmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+307,1079:3,sade soya sos somo başarı,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+308,1080:0,kisin içmek kismi dag evin animsatan yazin bahçe yesillikler icersinde ferah açik büfe kahvaltisi zengin çesitleriyle hayli rabet görmek hari genellikle nargile sever ugrak mekani tatli cafe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+309,1081:0,utanmak bozuk iç köfte acilasmis tereyagi servis edebî mekân,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,1081:1,garson uyardigimizda sade iletmek demek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,1081:2,özür dilemek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,1082:0,machiato demek espresso servis işletme,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313,1082:1,boş bardak fincan tabak masat beklemek toplamak yok,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314,1082:2,menü çeşit soru yok yok şunu vere vere,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+315,1082:3,kir iyi yıkanmak bardak çay servi,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316,1082:4,mado genel hastalık ara gelmek hal,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+317,1082:5,manzara satmak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+318,1082:6,mado ların kötü örnek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+319,1083:0,ev yemek hergün farkli tipki anne el degmis lezzet ev yemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+320,1083:1,mekân küçük hemen dolmak,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+321,1083:2,öglenleri yer bulamadigimiz,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+322,1083:3,genelde ürün lezzet fiyat uygun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+323,1083:4,öglen tercih etmek geçirmek gerekmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+324,1084:0,cok guzel siri mekân yemek kokteyl super manzara cok iyi tabiki guzel seyler icin sira beklemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+325,1085:1,malzeme güzel hamur sevmek,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+326,1085:3,genel mekân şirin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+327,1085:6,alkol tutmak,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+328,1086:0,hayat pahalı yemek yemek restoran,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+329,1086:1,yemek lezzet olmak rağmen fsm köprü baş üst zebellah durmak manzara keyfî kaçırmak,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+330,1086:2,yemek porsiyon küçük,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,1086:3,vale hizmet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+332,1087:0,rock n roll burger yedi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+333,1087:1,burger ekmegi yumusamis dagiliyordu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+334,1087:2,icinde sos bi istah acici degildi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,1087:3,ortami guzel gitmek icin gidelebilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+336,1088:0,mekân enteresan hava sahip haftaici aksamlari abi el nargile çay muhabbet dip vurmak,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,1088:1,haf son sabahlari ozellikle ev cocuklu ciftlerin kahvalti merkez,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,1088:2,yemek caylarini begendigim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+339,1088:3,fiyat gayet mantikli islemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+340,1088:4,tavsiye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+341,1089:0,özel bira mevcut olmak güzel olur standart bira içmek durum kalmak,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+342,1089:1,hari servis iyi garson güleryüz rahat mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+343,1089:2,yemek fark tadlar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+344,1089:3,cuma iş çıkış arkadaş takılmak mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+345,1090:0,fazla lezzet alternatif bulunmak menü sevmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+346,1090:1,citys in alt katı tanıdık sevmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+347,1090:2,magnolia sımak ayrı limonata ayrı güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+348,1090:3,peynir tos öze sunmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+349,1091:0,somo ızgara puan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,1091:1,sağlık doyurmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+351,1091:2,güzel öğle yemek mola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+353,1091:4,salıncak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+354,1091:5,yemek üzerine soğuk kahve iyi gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+355,1092:0,boğaz güzel yer biri sıcak sempatik zevk dekorasyon şahane manzara genç müşteri kitle güzel müzik yetmek güler yüz arkadaşca servi mükemmel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,1
+356,1092:1,kahvaltı seçenek iyi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+357,1092:2,yemek fena değmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,1092:3,öze göz ön al fiyat makul geliyor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+359,1092:4,ge gündüz zaman önermek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+360,1093:0,besiktaki hakikî pide demek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+361,1093:1,yuzden tatli yemegi tercih etmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+362,1093:10,besiktas yiyebilceniz iyi pi odun ate pisenin yer tutmak tabiki,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+363,1093:11,tatli secenekleri mevcur sufle kunefe menu pi gec gelin insanî tatli siparisi dusunduruyor,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+364,1093:2,fiyatlari tl arasi porsiyonlari buyutmek mumkun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365,1093:3,puanimdan sirf yavas yuzunden kisiyorum,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+366,1093:4,otobus duraginin hemen karsisinda yer cok kolay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+367,1093:6,porsiyon malzeme bol hamur citir citir servis icin ayni hosnutluktan bahsedemicem,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+368,1093:7,servis oldukca yavas,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,1093:8,yavas demek kalir,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+370,1093:9,vakit varmak kesinlikle ogle saat ugramayiniz,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+371,1094:0,eski kalite olmasada iyi demek talep olunca ister istemek kalite servis vasat düşüyor et kenfi çift otopark soru fiat normal,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+372,1095:0,manzarasi icin gitmek cafe cok fazla yazmak bisey yok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+373,1095:1,fiyat standart seviye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+374,1095:2,otopark soru yok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+375,1095:3,sess saki huzur mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+376,1096:0,kuru fasulye lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+377,1096:1,sutlaci tavsiye etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+378,1096:2,köfte kalite,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+379,1096:3,sade güzel yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+380,1096:4,çalışmak kibar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+381,1096:5,ortaköy yol düşen ugramali,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+382,1097:0,park soru ciddi,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,1097:1,vale gerçi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+384,1097:2,pazar sabahları brunch dış seçenek yok,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,1097:3,brunch çeşit ehh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+386,1097:4,masa istenen sucuk yumurmak sucuk extra ücret istenmesi ayıp,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,1097:5,mekân lokasyon numara rezervasyon deniz kenar masa bulmak imkân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+388,1097:6,böyle brunch tl in dilim sucuk tl extra ücret mana,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+389,1098:1,son kaba grup hal gitmek sipariş karışık olmak malesef,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+390,1099:0,tek kelime muhtesem lezzet doner kes usta is,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+391,1099:1,yagsiz cok lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+392,1099:2,yaninda getirmek tandir lavasi bugune yedigim lezzet lavas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+393,1099:3,oturdugunuz siparisiniz aliniyor hemen servis yapilmaya baslaniyor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+394,1099:4,orta salât patates kizartmasi getiriyolar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,1099:5,acik ara iyi donerci,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+396,1100:0,big chefs daim şişirmek kafe,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,1100:1,olur fiyat sunmak,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+398,1100:3,i̇sim yapmak pahalı olmak kalite algı yaramak,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,1100:4,ayva tost tl kavanoz tatlı tl vs yazan mekân kesinlikle gitmek,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,1100:5,israf başka değmek nazar,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,1100:6,böyle mekân boş bırakmak lazım fiyat skala düşük ara taşımak,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+402,1101:0,tatlilar tatlilari güzel tiramisu özellikle yemek an ögün büyük geliyor dikkat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+403,1101:1,un çikolatali pastasi agir diyet yapmak bulasmasin,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,1102:0,yemek tadi tuz yok,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,1102:1,orta gürültü ibaret,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,1102:2,garson tv izlemek bakmiyor,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,1102:3,geçinmek allahaskina bask sürümek yer yemek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,1103:0,güzel konu keyif yer degil çalisirken ögle yemek gitmek,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+409,1103:1,yemek lezzet inanamayacaksiniz pastirma yapilan topkapi kebabi iyi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+410,1104:0,koftenin hicbir ozelligi yok,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+411,1104:1,hizmet yok guleryuz yok,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,1104:2,manzaranin ekmegini yemek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+413,1104:3,masa dipdibe market dondurulmus kofte ali ev yemek,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+414,1105:0,sira sira kebaplari mekân,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,1105:1,kebap kesinlikle gitmek denemek tatlilari inanilmaz güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+416,1106:0,hizmet cok memnun kaldik,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+417,1106:1,cok guler yuzluydu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+418,1106:3,d somo izgara et quesadilla sipariz et,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+419,1106:4,somo izgaranin altinda kuskonmazli ispanakli sote mukemmeldi yemek genel guzeldi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+420,1106:5,et quesadillanin ozellikle et cok guzeldi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+421,1106:6,mutlaka gelicez,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+422,1107:0,sevmek mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+423,1107:1,müzik bahçe menü güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+424,1107:2,ferah orta kalaba buluşmak uygun yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+425,1107:3,çalışmak güler yüz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+426,1107:4,girmek böyle yer karşılaşmak tahmin etmek konu neden,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+427,1108:0,sütiş in emirgan şube şube manzara güzel deniz hemen yan köprü hemen sağ çapraz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+428,1108:1,yemek güzel fiyat mekân göre gayet uygun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+429,1108:2,tavukgöğsü başarı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+430,1109:0,berbat biyer rezervasyon yaptirdigim misafir rezil olmak rezalet biyer calisanlarin tavirlari ilgi hersey rezalet otesi,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+431,1110:1,çömlek ev yapimi yogurtlarini mutlaka deney,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+432,1110:11,seyden ufak ufak tattik,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+433,1110:12,yemek favori döner kavurmali pi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+434,1110:13,kavurmali pi tekrar ugrayacagim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+435,1110:14,tatlilarda tavuk gögsü gerçek leziz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+436,1110:15,irmik helvasinin tavuk gögsünden eksigi yok sekeri kivamindaydi hafif,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+437,1110:2,eski zaman biraktigimiz gerçek yogurdun tadini yakalayacaksiniz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+438,1110:3,fiyati sak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,1110:5,mükellef yemek sonrasi ortalama tl mekân çikabilirsiniz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+440,1110:6,dekorasyon zevk olmus özellikle mekanin ortasina konuslanmis bonsai agaç aldi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+441,1110:8,iyi karsilandik son el üst tutmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+442,1110:9,harikasiniz arkadaslar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+443,1111:0,bura sıkmak geliyorum levent çalışmak tercih etmek yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+444,1111:1,yemek eski güzel özellikle mantı başarı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+445,1111:2,gün çeşit çeşit ev yemek çıkmak olmak cazip ister zeytinyağ ister sıcak yemek i̇nsa gün fast food yemek alıkoymak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+446,1111:3,zeytinyağ tabak başarı salata porsiyon büyük tavsiye eder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+447,1112:1,oradakı koku olay bır hal care bulamak ıcın yazık mekân,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+448,1113:0,taksim tarz göre keyifle gitmek mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+449,1113:4,hamburger hoş gitmek ny steak tavsiye etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+450,1113:5,i̇çecek genelde bira sevmek kokteyl söylemek,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+451,1113:6,afiyet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+452,1114:0,artık happy moons beğenmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,1114:1,servi iyi çalışmak güleryüz yemek eski almak tat almak,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+454,1114:2,bi tek çilek limonata beğendi tavsiye etmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+455,1115:0,ö manzara konu olabilecek son mekân filiz olmak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+456,1115:1,zaman kayıp,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+457,1116:0,yemek fena degil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+458,1116:1,ozellikle zeytinyaglilari guzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+459,1116:2,galat cevresinde zeytinyagli ev yemegivari yiyebilecegimiz nadir yer oldugu icin tercih etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+460,1116:3,dunyanin yavas ev servis hizmet sunmak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+461,1116:4,hele ogle saat dakika beklemek hazir o,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+462,1116:5,ogle saat degilse dk beklemek goze almak gerekmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+463,1116:6,son soyledigimiz firinda makarnasi kuru gelmek siparis vermek kararmak vermek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+464,1117:0,manzarasi güzel dekorasyon başarı kahvaltı gitmek kahvaltı güzel omlet beğenmek tat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+465,1117:1,geri kala hersey taze kayı ceviz süslemek hoş gitmek kahvaltı fresh hava katmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+466,1117:2,kahvaltı gitmek garson servis eder görmek kadar yemek porsiyon küçük sunu hoş gitmek,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+467,1117:3,kısa manzara gidilebilinir yer sade,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+468,1118:0,i̇lk ev yıldönümü yemek yemiş karşılamak gayet güzel kibar çalışmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+469,1118:1,sunu beğenmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+470,1118:2,saki mutlu yemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+471,1118:3,tekrar gitmek düşünür,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+472,1119:0,klâsik rakı balık fasıl üçlemek sıkmak meze odaklamak isteyenler iyi alternatif,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+473,1119:1,manzara iyi seçenek sunmak lakerda başta üzere bütün meze denemek değmek,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+474,1119:2,fıstık peynir meze bura özel lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+475,1119:3,kişi baş lira rakı meze güzel akşam geçirmek garanti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+476,1120:0,konu cok guzel yer manzarasi enfes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+477,1120:1,limonatasi kocamak lezzet ayvalik tos nu yeni yorumlamak farkli hale getirmisler fena degildi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+478,1120:2,mekanin buyuk sıkıntı hizmet kalite cok cok yavaslar,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+479,1120:3,gore mekân olmasi gerekmek onemli ozellik hizmet kalite buyuk kurtaricisi lokasyon muhtesem bogaz manzarasi,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+480,1121:0,sinirsz kahvalti keyfî harika yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+481,1121:1,manzarasi cok güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+482,1121:2,garson güler yüxlü olabilir,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,1121:3,tl kisi basi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+484,1121:4,zengin acik büfe menü,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+485,1121:5,keyif yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+486,1122:0,son zaman büyük hayal kırık,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+487,1122:1,büyük merak gelip yemek haz etmek başka yer olmak,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+488,1122:2,garson arkadaş mekân manzara hizmet şahane lezzet adına söylemek yok,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+489,1122:3,köprü alt yer kalamar ko ön,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+490,1122:5,yeşilköy efsane sürmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+491,1123:0,yıllamak önce keyif mekân sayı az sıklıkla tercih etmek mekân sayı artmak geri plan itmek mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+492,1123:1,bahçe i̇nsa huzur veriyordu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+493,1124:0,manzara guzel servis rezalet kere soylemeden getirmek kere degil kere dusunun gelir,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+494,1125:0,yan benzin yan mezar manzara çok tutmak cafe,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+495,1125:1,üst olmak çabuk direksiyon kırmak vakit oturmak kolay tercih et,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+496,1125:2,bahçe keyif yemek kötü değmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+497,1125:3,arka içmek kahve beklesekte fazla beklenti cafe olmak not verdi,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+498,1126:1,besiktas barbaros bulunmak sampi sabaha acik ge cani cekenler icin ideal paket servi kapali kasarlisi cok lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+499,1127:0,pizzalarini fena bulmadim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+500,1127:1,acikcasi cok ayilip bayilani kali hamur pizzalari seviyorum,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,1127:2,pizzeria trio pizzalari guzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+502,1127:4,et kot net geri kala urunleri fena sayilmazdi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+503,1127:5,i̇nanilmaz manzara sahip mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+504,1127:6,pizza sarap manzara kombi icin gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+505,1128:0,özellikle bahçe tercih edinmek gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+506,1128:1,açık âlâ gayet rahat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+507,1128:3,içecek güzel fastfood tarz atıştırmak tercih etmek tavsiye etmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+508,1128:4,yemek fena değmek porsiyon ufak,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+509,1128:6,fiyat fazla,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+510,1129:0,burasi eski favori yer menü degisti artik eski menudeki yemek tadi ayni degil lezzet cok kötü,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+511,1129:1,lezzet disinda degerlendirirsek dis alani bahcesiyle hemde ic alani rahat buyuk koltuklariyla cok keyif mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+512,1130:1,tat başka aşşkın kuruçeşme iyi mekân demek arkadaş kahve içip sohbet etmek bura başka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+513,1131:0,kadıköy ün bira cennet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+514,1131:1,eski çalışmak iyi samimî düşünmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+515,1131:2,mevcut çalışmak marjinal görünüm yadırgamak birlik marjinal görüntü hafif cool davranmak kaçmak hizmet olumsuz yansımak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+516,1131:3,gülümsemek çalışmak profil olmak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+517,1131:4,hizmet ortalama yemek ortalama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+518,1131:5,bol çeşit bira denemek müzik dinlemek gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+519,1132:0,yemek vasat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+520,1132:1,zaman yoğ,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+521,1132:2,içeri müzik birbiri duymak,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,1132:3,servis eleman kâp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+523,1132:4,sade fiyat makul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+524,1132:5,menü kısıt,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+525,1133:0,cizbiz koftesi sutis moccachinosu dtox corbasi haftasonu hahvalti zenginligiyle tavsiye edebilecegim mekân manzarasi ulasim rahatligi konforuyle deneme tavsiye eder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0
+526,1134:0,sosyal medya ün olmak kalite düşürmek mekân tane,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+527,1134:2,arkadaş aşk memnu söylemek cheescake söylemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+528,1134:3,i̇kisi durmak kötü kalite malzeme kul,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+529,1134:4,az ad özdeş tatlı öze göstermek beklemek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+530,1134:5,manzara vermek yer mantık işletme kuruçeşme olmak üzmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+531,1134:6,önermek emin aynı güzel manzara sahip yemek müşteri saygı gerek taze iyi malzeme yapmak yer bulabilirsiniz civar,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+532,1135:0,anzarasi harika,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+533,1135:1,burasi hafta ugramaya çalistigim manzarasina bayildigim mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+534,1135:2,seyler yemek iyi denemek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+535,1135:3,pastalari sinif pastane mamul,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+536,1135:4,ayrica genelde kalabalik olmasi neden yer kapmak bayagi ugrasmak gerekmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+537,1136:0,servis vasat,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+538,1136:1,çatal bıçak pis ceviz baklava şerbet i̇nsa mide bulandiriyor,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+539,1136:2,ayrı baklava yanmak,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+540,1136:3,fıstık tatlı idare eder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+541,1137:0,karakoyde yer âlâ siri cafe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+542,1137:10,cin cayi tadi cok guzeldi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+543,1137:11,kavun aromasinin kivami yer ic ic bitmek tur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+544,1137:2,sıkmak sıkmak gelip butun caylardan denemek lazim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+545,1137:3,fiyat yuksek verdiginiz para degiyo,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+546,1137:4,dekorasyon cok hos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+547,1137:5,cok rahat koltuklari,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+548,1137:6,oturup saatlerce kalite caymak esliginde muhabbet etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+549,1137:8,buz caymak hayatimda ictigim iyi buz caydi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+550,1137:9,sekmek orani yer cok ferahlatiyordu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+551,1138:0,fiyat performans gitmek mekân uz kebap,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+552,1138:1,piyasa bulunmak kebap göre tıkmak iyi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+553,1138:2,haftasonu gezmek gitmek açmak kalmak yemek yemek hemen kalkmak mantık gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+554,1139:0,berbat yer insanlarin sefil oldugu göcmen burosuna sır beklemek hissetmek rezalet,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+556,1139:2,para rezil ister buyru derim,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+557,1140:1,menusundeki hemen hemen hersey oldukca lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+558,1140:2,ozellikle acik bufe sabah kahvaltisi ev yapiyormus keyif,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+559,1141:0,standart kahvalti orta servis mekanin konu çitayi yükselmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+560,1141:1,özellikle servis elemani sezgi bey in is iyi yapmasi herkes esit ayni güler yüz ilgilenmek masa arasi slalom yapmak istegi ikilemek hep sempati takdir kazandi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+561,1141:2,göksu gitmek hos cafe bence,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+562,1142:0,geniş bahçe tera lokasyon yakı arkadaş yazmak akşamlaında açık haavada nargile keyfî yapmak mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+563,1143:0,ulasim oldukca kolay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+564,1143:1,otoparki vale sistem calisiyor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+565,1143:2,cevir duzenlemesi okadar guzel yapilmiski yemek tatmak iyi gelmek demek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+566,1143:3,et meze salât patates kizartmasi kesinlikle akis dusundurmuyor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+567,1143:4,ayri lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+568,1144:0,acildigindan ara sira gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+569,1144:2,icin artik gitmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+570,1144:3,yasaklamak hayirli,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+571,1145:0,vasat i̇stanbul daki kebapçilarla kiyaslayacak olur gerçek vasat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+572,1145:1,dert kebap degil yen yer görmek diyorsaniz kesinlikle tavsiye etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+573,1145:2,büyük beklenti gitmek üzmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+574,1146:0,ozel gun yemek yiyebileceginiz luks restorant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+575,1146:1,kulbasti ozellikle ev yapimi sufle tavsiye etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+576,1146:2,rezervasyon sirasinda ozel gun soylediginiz takdir sampanya ikramlari guzel jest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+577,1147:0,yemek servi lezzet iyi restaurant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+578,1147:1,servis süre uz bir bulunmak mekân mekân fizik kalite göre fiyat pahalı,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+579,1147:2,mütevazı menu fiyat sıkmak ziyaret etmek,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+580,1148:0,çikolata baklava bayılmak kesinlikle favori tatlı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+581,1148:1,diğer bütün tatlı kalite lezzet üst seviye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+582,1148:2,güllüoğlu konu uzman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+583,1149:0,nusret et prens demek bilmek demek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+584,1149:1,😎 et muhteşem lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+585,1149:2,ev aynı aşçı aday yapmak nusret inki fark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+586,1149:3,kalite yemek seven mutlaka gitmek denemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+587,1150:0,jumbo combo kol istemek börek tavuk parça dış tat göre değmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+588,1150:1,sos sevmek soğan halka tat tatlı gelmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+589,1150:2,nachos istemek pişman olmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+590,1150:3,cumartesi olmak rağmen saki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+591,1150:4,telefon şebeke çekmek wifi bağlamak istemek oturmak müddet başarı olmak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+592,1150:5,servis hız çalışmak pozitif,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+593,1150:6,güzel cafe maalesef hard rock değmek,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+594,1151:0,açıkçası çok tavsiye yer değmek bence press yanyana olunca orayada bakayim demek oturmak kalkmak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+595,1151:1,sade türk kahve sürümek çay çeşit tadlari güzel pahali gerek yer bence,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+596,1152:0,bir bura yer deni demek geçenlerde hayal kirikligi garson asir ilgi kebap diger subelerine göre basari cok sarimsakli rahatsiz edi manzara olayi yok bridge in ters tarafinda kaldigi icin ev bakiyor bos bos gitmek degecek yer degil lezzet kötü ilk son gidisim olacak servis göztepe subesi gerçek güzel salatalari paket sekil gonderiyor,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+597,1153:0,dostlarinizla birlik gürültü uzak seyler içmek düsüncesindeyseniz birbiri se rahatlikla duyabileceginiz mükemmel yer limon bahçe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+598,1153:1,bahçe kedi birbiri kovalamasi mutlu mide kelebek uçurtmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+599,1153:2,tek soru siparisin geçmek gelmek yemek performans fiyat birlikteliginin tutarli olmamasi,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+600,1154:0,popüler etki kalite düşürmek malzeme azalmak yer,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+601,1154:1,baklava fıstık ara bulamak,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+602,1154:2,paket alınmak baklava bayat olmak ihtimal yüksek dikkatli o,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+603,1154:3,su börek kötü,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+604,1154:4,kalaba oturmak gürültü çekmek değmek,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+605,1155:0,normal mekân normal tat,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+606,1155:1,övgü üzerine gitmek fazla beklenti girmek normal bulacağınız şe bepenmeyebiliyorsunuz,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+607,1155:2,bence i̇stanbul iyi deni mekân meze probleni,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+608,1155:3,sıra lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+609,1155:4,bura aynı duru geçer iş,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+610,1156:0,zaman keyif zaman keyifle gittigim mekân olmustur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+612,1156:2,misafir güzel host etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+613,1156:3,canyon road big burger zaman favori,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+614,1157:3,cok yuksek seslemek gulup egleniyorlar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+615,1158:0,ugramadan geçmek konu güzel yer kuru disaridan geçer görsel içeri çagiran ayrica içeri girildiginde pisman etmek mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+616,1158:1,burasi olmak lezzet yemek yapiyor sunu hijyen sicak kesinlikle gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+619,1159:1,hizmet kalite iyi degil,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+620,1160:0,deniz mahsul pizza güzel değmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+621,1160:1,risk girmek hamburger wrap sandviç tarz söylemek mantık,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+622,1160:2,ayrı rezervasyon alıyorlar numnum sınız havan demek geliyor i̇nsa,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+623,1161:1,fır makarna denemek beğenmek söyleyemeyeceğim,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+624,1162:0,aydir haftasonlari ugrak noktamizdi kahvehane maç ücret tl yazdilar yaa gun gozumuzde bit,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+625,1162:1,gidicekler simdiden dikkatli,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+626,1163:0,mudavimi oldugum diger mekanim ascisi super yemek cikariyor islemek cok seviyoruz balli tavuk salât yesil mercimek corbasi kestane sufle birbiri saglikli fresh meyve sulari deney derim bogazin gobeginde yemeginizi yemek keyfî varin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,0,0,1,0,0,1
+627,1164:0,fethipaşa koru iç bulunmak manzara göre uygun fiyat sahip salaş şık aile uygun mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+628,1164:1,özellikle yazmak akşamları tera semaver çay denemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+629,1165:0,yazmak ay bahçe beşiktaş taki ferah yer olabilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+630,1165:1,yemek lezzet servis hız çalışmak güler yüz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+631,1165:2,içmek dekorasyon gayet hoş,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+632,1165:3,müzik orta uyum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+633,1166:0,malesef sade pazar günü brunch vere yer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+634,1166:1,kahvaltı denemek denemek fazla çeşit hangi yemek şaşırmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+635,1166:2,saatlerce pazar keyfî yapabilceğimiz yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+636,1166:3,manzara demek tek kel yok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+637,1166:4,böyle yer tabi fiyat pahalı,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+638,1166:5,garson yemek güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+639,1167:0,tuzlamak meşhur balık,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+640,1167:1,eski nazaran kalite olmak düşük,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+641,1167:2,eski mekân ufak sınır sayı müşteri hizmet kalite bozmak yer,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+642,1167:3,maalesef son senet kalite servis epey sıkıntı,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+643,1168:0,tatlilari denenmeli bence,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+644,1168:1,manzarasi ayrica güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+645,1169:0,plaza i̇nsa öğle yemek alternatif kanı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+646,1169:2,ev yemek haketmek pahalı satmak düşünmek,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+647,1170:0,göksun kenar şirin yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+648,1170:1,yemek gayet lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+649,1170:2,görsel önem vermek aşikâr,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+650,1170:3,hizmet konu puan veriyorum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+651,1171:0,uz zaman yemek güzel kofte imek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+652,1171:1,hamburger güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+653,1171:2,roka salata güveç mantar başarı imek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+654,1171:3,kahvaltı denemek üzere tekrar gelir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+655,1172:0,i̇stanbul fazla olmak istenen mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+656,1172:1,dizayn güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+657,1172:2,kalaba olmak çevre masa içmek iç hissetmek ferah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+658,1172:3,özellikle boğaziçi üniversitesi öğrenci sık uğramak gerekmek mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+659,1172:4,yemek menü geliştirmek,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+661,1173:0,quattro stagioni orto denemek beklenti altı kalmak,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,1173:1,pizza ziyade tiramusu başarı,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+663,1173:2,dükkân minyatür hal maket tatlı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+664,1174:0,cok fazla kisiye servis yapildigi icin cok basari bulmak meze dunden kalmak et cok guzel degil yanliz adana kebabi fena degil iyi oldugu icin bask yer deneme fay,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+665,1175:0,orta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+666,1175:1,ambiansi hos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+667,1175:2,yemek basari bulmak burger lezzet fajita kullandiklari et uygun degil,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+668,1175:3,genelde kalabalik oldugu servis kosturmaca iç yapiliyor,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+669,1176:0,kadıköy yemek yemek iyi yer happy moon s,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+670,1176:1,gün saat gelinebilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+671,1176:2,servis hız saymak mekân dekorasyon gerçek güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+672,1177:0,manzara muhtesem servis icin ayni se soyleyemeyecegim,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+673,1177:1,peynir omlet menemen lezzet patates kizartmasi fazla yag cekmisti,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+674,1177:2,gelen kahve maalesef sogumustu,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+675,1178:0,abartildigini düsünüyorum,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+676,1178:1,getirmek patates kizartmasi kullanilan yag kaçinci kere kullanilmissa üzerinde siyahlasmis yag kalintilari varit patates birakin çitir olmayi hamur gibi,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+677,1178:2,domates salatalik sögüs beklemek pörsümüstü,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+678,1178:3,etraf kaotik hareket yasanmasi yediginizden keyif almanizi zorlastiriyor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+679,1178:4,üzerine ortalama döner olunca tekrar gidecegimi sanmak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+680,1179:0,bayılmak yer mekân hoş meze tatmak gerekli evet keşke fiyat insanî boyut muhteşem olur yapmak keyif alıyorum vermek par can acımak sade seyrek gitmek sebep orta yemek müzik herşey harika,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+681,1180:0,nadir güllüoglunun yer güzel bakimli taze lezzet sunmak sade sekerli geliyor damak tadimdan kaynaklamak hepsi genelde denemek fistikli baklava güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+682,1181:1,mekân iç cidden emek harcamak hal belli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+683,1181:2,yoğ servis hız yenilemek lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+684,1181:3,pastırma yumurmak konu gön tek sultan sütiş,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+685,1182:0,hasan kolcuoğlu pahalı demek hesap yüksek saymak ayrı sözde açık kapalı alan sigara içiliyor,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+686,1182:1,meze çeşitli lezzet metre kebap güzel gayet lezzet mecburen fix menü alınmak,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+687,1182:2,par ödeyip istemek yemek gerek israf sebep bence değişmek,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+688,1183:0,mantı ficcini zeytinyağ mezgit cok guzel yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+689,1183:1,meyhane kismina kere oturdugumuzda arkadaslarimizi beklemek zorlamak tane meze getirmek eger meze istemek oturamayacagimizi soylediler,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+690,1183:2,terbiye birkac garson dış guzel yer,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+691,1184:0,anadol yakasi nda kebap yemek iyi nezih yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+692,1184:1,yemek ozellikle ara sicaklari cok lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+693,1184:2,servis cok hizli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+694,1184:3,calisanlar guleryuzlu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+695,1185:0,cerkez yemek seven icin guzel tercih,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+696,1185:1,ozellikle manti cok begenmistim meze vs lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+697,1185:2,sade son gittigimde calisanlarin muamele hic hosnut kalmadim konu dikkatli olmalilar,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+698,1186:0,mekân dekorasyon başarı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+699,1186:1,meze olmak güzel çeşitli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+700,1186:2,balık gelin durmak,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+701,1186:3,bilmek çift balık gelmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+702,1186:4,lezzet an yemek beklemek açıkçası,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+703,1186:5,fiyat ortalama meyhane fiyat üzerinde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+704,1187:0,et güzel et öz pişirmek nadir yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+705,1188:0,penn siciliano yedi yer guzeldi yagindan butun gun mide yandi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+706,1188:1,arkadasim begendili tavuk ayni se yasadi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+707,1188:2,servis ilgi mukemmel yemek mide rahatsizlik yaramak,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+708,1189:0,yemek iyi saha yumurmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+709,1189:1,yumurmak ney güzel demek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+710,1189:3,kavurma efsane saçmak demek yanında bakır kâp ayran,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+711,1190:0,yemek standart mu tarzinda kapida beklemek kisi soguk ters,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+712,1190:1,bakmak garson yuksek ses siparis almasi ayri entresan,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+713,1191:0,eski iyi,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+714,1191:4,fiyat asir uçmus,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+715,1191:5,artik lezzet degil popülerligine gitmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+716,1192:0,konu olaral harika lezzet iyi gerçek servis gitmek aynı kötü öd vermek konu,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+717,1192:1,biri soru çözmek gerekmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+718,1193:0,sıcak samî i̇çten kütük ev cafe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+719,1193:1,serpmek kahvaltı vazgeçilmez haftasonu bura gelip keyif vakit geçirebilirsiniz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+720,1194:0,paket döner al öze paket uz yol yapmak olmak rağmen açmak sıcaklık korumak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+721,1194:1,malzeme kısmak et lezzet memnun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+722,1195:0,gun once ayni saat og menus getirmek garson gun kustahca dun insiyatif alip getirmek vermek bitmek demek getirmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+723,1195:1,kesinlikle gitmek muamele cok kot,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+724,1196:0,iftar çay kahve keyfî ideal yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+725,1196:1,bogazin huzur kendi dinlenmek arkadaslarla ko sohbet uz saatlerce oturabilir canli müzik esliginde keyfî keyif katmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+726,1197:0,fiyatlari gercek pahali kalite hos mekân ariyorsaniz kesinlikle tercih etmek,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+727,1197:1,ozellikle begendilerine kattiklari dam sakizi hos aroma veriyor anlamak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+728,1197:2,baslangiclarinin cogunu denemek hepside enfes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+729,1197:3,tatli sufle tercih et bayildik,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+730,1197:4,mukemmel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+731,1197:5,tek eksik et orta pisimisini istemek ragmen cok pismis et karsilastik,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+732,1198:0,yıllamak dizaynini aynen koruyan uskudardaki muhteşem yemek esnaf lokantasi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+733,1198:1,esnaf lokantasi na göre fiyat pahali kredi kart geçmek,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+734,1198:2,yemek gerçek lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+735,1198:3,tatlilardan irmik helva fır sutlaci önermek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+736,1199:0,yıllamak i̇stanbul daki favori pizza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+737,1199:1,gitmek pizza zaman kendi bitirmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+738,1199:3,birden pizza denemek adına pizza yarı fark yapmak derim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+739,1200:0,servis porsiyon kötü,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+740,1200:1,bebek şube bura tek güzel yan cadde arka sokak yeşil iç bahçe olmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+741,1201:0,turk kahvesının ıcınden kocamak böcek çıktı,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+742,1201:1,kahveyı bıtırdığınızde dıbındekı bocekle karsilasiyorsunuz,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+743,1201:2,yemek hesap edinmek artık,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+744,1202:0,ne bilmek bura seviyorum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+745,1202:1,lynchburgleri güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+746,1202:2,cin li kokteyl denemek değmek arkadaş bi jager mojito yapmak,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+747,1202:3,oturmak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+748,1203:0,alkol içki almadiginiz restda adam basi tl hesap cookk fazla üste gayet yemek,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+749,1203:1,lezzet iyi fiyat orantili degil porsiyon personel iyi,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+750,1204:0,manzara güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+751,1204:1,kurucesmede olmak rağmen dermek catma mekân,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+752,1204:2,sıkmak sıkmak yerlestirilmis masa dolayi orta ugultulu maalesef,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+753,1204:3,keyif yer olabilirdi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+754,1204:4,gürültü orta tekrar gidecegimi sanmak,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+755,1204:5,i̇thal peynir tabak peynir yeter çok ithal değmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+756,1204:6,böyle mekân fiyat ortalama üst kalmak,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+757,1205:0,açık orta yemek isteyenler güzel orta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+758,1205:1,bahçe saki yemek yemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+759,1205:2,kuz sis lahmacunlari guzeldi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+760,1205:3,servis aksamak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+761,1205:4,garson sürek düşürmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+762,1206:0,kahvaltisi bol cesitli doyurmak genelde biteremiyosunuz fiyati uygun olabilirdi calisanlar guler yuzlu bulundugu âlâ masa genis rahat oturup keyifle kahvaltimizi etmek,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+763,1207:0,merkez konu geniş menü neden kadıköy tercih edi çok zaman dışarı yer bulamak mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+764,1207:2,son gitmek pahalanmak bul,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+765,1207:3,yemek bugün dek sıkıntı rastlamak lezzet yapmak demek tek cajun tavuk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+766,1207:4,şimdilerde göz ortalama mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+767,1208:0,tuzlamak balık kök müşteri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+768,1208:1,i̇lk açmak gün günü gelir gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+769,1208:2,fiyat gayet uygun yer bulmak zor olmak şirin dükkân bura kısa süre gelmek mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+770,1208:3,maalesef eski lezzet,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+771,1208:5,mekân büyümek kalite düş,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+772,1208:6,ah be sezgi abi eski lezzet hasret,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+773,1209:0,beşiktaş otobüs zincirlikuyu gelmek göz direk çarpmak mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+774,1209:1,pide iyi hizmetide bence üst katmak tera iyi bütük kalaba göz ön akmak resmen hemen yan ağaç ilede fark hava katmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+775,1210:0,bahariye gezer yemek yemek icin bura gelebilirsiniz mekân guzel sikmek menu cesitli gayet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+776,1210:1,fiyat cok pahali degil ortalama durmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+777,1211:0,cookshop diyince aklima ilk gelen magnolia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+778,1211:1,bura gelipte tatliyi denemek gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+779,1211:2,makarna patlicanli zeytin penn guzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+780,1211:3,arkadasim lasagne begenmedi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+781,1211:4,servi gelistirilmesi siparis almak gec geliyorlar,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+782,1212:0,sade adi num num gmall kanyon denemek olmadi,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+783,1212:1,yemek basari menü zengin servis basari ilk açildigindaki lezzet kalite bozmak,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+784,1213:0,kurufasulye sütlâç sürek gittigim yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+785,1213:2,tereyagini manzara karistirinca yem yaninda yat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+786,1213:3,üzerine bolca fin dökülmüs firin sütlaci yedmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+787,1214:0,ideal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+788,1214:1,tuzlamak sahil kafe oturup seyler içmek ideal yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+789,1214:2,künefe düsündügümden güzelmis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+790,1214:3,hatay künefe kiyaslamasam tabi lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+791,1214:4,çayi sahlepi künefe dondurmasi önermek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+792,1214:5,limonatasi ev yapimi denemek iç nane yapragi vs düzmek limonata gelin sormak nane yapragini su an yok demek,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+793,1214:6,sormak getirdigimizde bilgilenmek lazimdi,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+794,1214:8,tuzlamak ugrak olunabilecek mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+795,1215:0,mis uskudar dilruba çikis yol zor yormak nargile gitmek deger,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+796,1215:1,hele kebaplari enfes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+797,1215:2,sabahlari çesit kahvaltisiyla es manzara birlesince insanî rahatlamak yetmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+798,1215:3,görülmesi gerekmek kalite yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+799,1216:0,dü aile es lezzet tatdigimiz mabeyn de,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+800,1216:1,tatlilar muhtesemdi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+801,1216:2,hesap gelen tadimizda iyi,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+802,1216:3,tl fazla,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+803,1216:4,içki servi kaldirilmis olmasi garib gitmek açikcasi,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+804,1217:0,degisik pi tür cani çekmek denenebilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+805,1217:2,eh is,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+806,1217:3,pi yemek güzel demek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+807,1217:4,çorbasi soguk gelmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+808,1217:5,tadi yok,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+809,1217:6,sufle normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+810,1217:7,besiktas merkez yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+811,1218:1,yemek bay standart bazı bi hayli kot,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+812,1218:2,tavsiye etmek tek şe donmak sanmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+813,1219:0,geniş çay menü bence alelâde dem çay,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+814,1219:1,kalite olabilirler gram demlemek süre sıcaklık dikkat etmek sanmak,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+815,1219:2,paket çay alabildiğim ücret iyi beklemek,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+816,1219:3,tatlı gelinebilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+817,1220:0,miss pizza iyi olmak i̇stanbul iyi ara saymak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+818,1220:1,dışarı yer vermek içeri boş yer yok demek öğle demek önce gitmek açmak demek vb,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+819,1220:10,çalışmak gerçek burun kılmak aldırmak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+820,1220:11,geri dönmek varmak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+821,1220:2,yemek fena olmak servi neden hayat uğramak yer,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+822,1220:3,i̇yi kalite böyle hizmet yakışmak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+823,1220:4,kul malzeme iyi değmek ortalama üst hamur gayet iyi yapmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+824,1220:5,pizza gayet doyurmak çeşitli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+825,1220:6,değişik tat tatmak isteyenler iyi alternatif,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+826,1220:7,özellikle kabak pizza gayet başarı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+827,1220:8,servis konu ciddi sıkıntı olmak düşünmek yer,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+828,1220:9,seferî mutlaka problem karşılaşmak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+829,1221:0,manzara konu güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+830,1221:1,boğaz balık i̇stanbul daki belli başlı yer olmak rağmen böyle manzara lezzet arttiralabilinir düşünmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+831,1221:2,fiyat yüksek gerçek boğaz balık bedel ambians konu dolayısı fiyat laf söylemek doğru değmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+832,1221:3,boğaz balık romantik akşam yemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+833,1222:1,once kirk saat istegimiz soslari beklemek cunku tum sos baskalari tarafindan kullaniliyordu,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+834,1222:2,soru su alti us mayonez bulunmasi zor olabilir maliyet ne alinir,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+835,1222:3,yemege gelin tatsiz tut yemek begenmedik,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+836,1222:4,yemek bit hadi kalkin tavirlarina girmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+837,1222:7,ozetle uzamak musteriye yoluncak kaz gozuyle bakilmaktadir,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+838,1223:0,bende hoşnut anlamak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+839,1223:1,bereket mekân haf iç cumartesi kuyruk kapı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+840,1223:2,lakin soğuk gelen çorba garson söylemek oral olmak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+841,1223:3,anlaşmak müessese doymak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+842,1223:5,bence leziz lavaş,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+843,1223:6,lavaş yemek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+844,1223:7,döner sarmak,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+845,1224:0,önem özellik döner hariç geri kala iyi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+846,1224:1,yemek önce i̇kram garson ilgi servis hız güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+847,1224:2,döner methetmek değmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+848,1225:0,manzara süper süper başka birşey yok,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+849,1225:1,diğer lezzet tamam standart,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+850,1225:2,lezzet göre uygılanan fiyat pahalı bence,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+851,1225:3,manzara para eklemek yiyecek üzerine,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+852,1226:0,tünel ev yemek yemek güzel alternatif lezzet rahat açı iyi hissiyat vermek hemen yemek yemek kalkmak mekân masa sayı masa yüksek ihtimal başka pay,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+853,1226:1,ay yıl gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+854,1227:0,zeytinyagli yemek cok basari yer klâsik yemek farkli tat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+855,1227:1,oldukca bol kepceden hizmet veriyorlar cesit zeytinyagli icin tl oduyorsunuz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+856,1227:2,ogle yemek hele yazin favori yer maalesef ufak mekân oldugu icin yer bulmak zor olabiliyor birazcik bek imkansiz degil,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+857,1228:0,manzara süper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+858,1228:1,gerçek güzel konu yer alıyor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+860,1228:3,zaman gitmek güler yüz ayrılmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+861,1228:4,köfte lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+862,1229:0,taksim kalabalik dar sokaklarindan kucucuk kapidan girmek ulastiginiz yemyesil bahce âdeta kucuk supriz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+863,1229:1,burayi cok sevmek cok romantik cok tatli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+864,1229:2,tek kusur masa yakin birbiri,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+865,1229:3,kirmizi limonata limon vitamin tercih et iki bayildik,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+866,1229:4,mutlaka ge gorun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+867,1230:0,manzarasi mukkemmel deniz sifir olmasi sebebiyle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+868,1230:1,bahcesi huzur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+869,1230:2,i̇cerisi icin ayni se soyleyemiycm temiz bulmak,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+870,1230:3,self servis olayi sıkıcı,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+871,1230:4,yan iyi pes do garson yok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+872,1230:5,girmek hava almak icin oturabilceginiz br yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+873,1231:0,kalaba olmak sohbet uygun değmek mekân gayet güzel içmek kısım güzel kokmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+874,1231:1,kalaba gürültü dolayı fazla durmak,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+875,1232:0,eski performansini ariyoruz bas müptelasi oldugum son zaman kalite olmak düse mekân,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+876,1232:1,ilk yemek mükemmel ilk açildigindaki lezzet kaybetmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+877,1233:0,iyi konum ögretmenevi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+878,1233:1,anadol hisari hemen yanindaki sabanci ögretmenevi kullanimina açik tesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+879,1233:2,toplam salon kafeterya olusan tesis uygun fiyat hizmet almak ayri salon dügün nisa okul yemegi toplanti organizasyon gerçeklestirmek mümkün,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+880,1233:3,kafeteryasinin self servis olmasi eksi görü bogaz daki çay keyfî tartisilmaz,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+881,1234:0,yemek guzel pilâv kurufasulye soguk,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+882,1234:1,cok kalabalik oldugu icin servis aksiyor calisanlar bikkin,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+883,1234:2,kere gitmek gitmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+884,1235:0,keyif sohbet ortamlari bütünlestiren ardindan damak biraktigi lezzet müdavi yapmak yer vardir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+885,1235:2,pazar kahvaltilari mabeyin dir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+886,1236:0,nami duymak gittigim yer meze gelin orta nam kalmadi malesef,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+887,1236:1,ayrica sacma sapa hesap gelip sonrasinda bahsisle calisan vale par tutturmasida cabasi,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+888,1236:2,begenmedim malesef,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+889,1237:0,denk gelmek bilmek uz zaman yemek kötü yemek yedi üst servis kötü,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+890,1237:1,menü özellik yok,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+891,1237:2,birbiri kopya standart kafe yemek müşteri kazıklamak çalışmak tipik yer,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+892,1238:0,hisarüstü yakışmak bar olmak içmek dizayn güzel yapmak kış ay soğuk olmak problem,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+893,1238:1,taraf cam olmak yeterince ısıtmak,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+894,1238:2,yılbaşı lira sınır yaban alkol etkin olmak güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+895,1239:0,hamburger beğenmek diğer yemek lezzet olabilir,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+896,1239:1,sürek kalaba mekân,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+897,1239:3,kadıköy gözde mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+898,1240:0,çay demek ak ilk gelen yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+899,1240:1,yakı çeşit çay biri mutlaka seviceksiniz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+900,1240:2,karamel aramak çay sevmek ad hatırlamasamda iç karamel demek tek gelicek olucak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+901,1240:3,mekân inanmak keyif içeri koltuk kalkmak istemek i̇nsa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+902,1241:0,kesinlikle vermek puan haketmek mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+903,1241:1,küçük şirin konsept sahip,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+904,1241:2,pizza fagotto favori lezzet iyi yemek iyi pizza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+905,1242:0,düse kalite eski sever patlicanli güveç kebabini,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+906,1242:1,yakinlarda gitmek servis berbat,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+907,1242:2,fiyat yüksek kart geçmek,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+908,1242:3,sorbe dondurmasi güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+909,1243:0,kısık yakı mekân şatobiryan isim et deney,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+910,1243:2,özel sunu masa geliyor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+911,1243:3,mantar çanak denenebilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+912,1244:0,harika manzara güzel lezzet manzarasi yiyecek son derece güzel çesit yiyecek mevcut son derece lezzet fiyatlari uygun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0
+913,1244:1,halka açik olmasi son derece güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+914,1244:2,kalabalik o yer bulamak sikinti gitmek gerekmek yer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+915,1245:0,hisarustu n genis mekân olmasina ragmen ferah yer degil,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+916,1245:1,kalabalik gruplamak icin uygun acidan buyuk avantaj sagliyor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+917,1245:2,belli saat bistro sek o guzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+918,1245:3,yazin camekân olmasi hos kisin donmustuk,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+919,1245:4,ilk kıs gecirmesinden mi bilmek su akiyordu tepe,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+920,1246:0,biralarindan denenmeli guzel bira varit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+921,1246:1,ister denemek icin farkli bira kucuk bardak alabiliyorsunuz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+922,1246:2,keyif orta cok kalabalik degildi tavsiye etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+923,1247:1,alkol çeşitli yemek dekorasyon barmen müşteri profil kadıköy dekl iyi mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1
+924,1247:2,çalışmak işletme sahib misafirperver samimiyet başka mekân bulabileceğinizi sanmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+925,1247:3,daim gitmek mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+926,1248:0,kadıköy ün kemik mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+927,1248:1,klâsik kalite bulabilmeniz mümkün,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+928,1248:2,haf son kahvaltı gönül rahat tercih etmek mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+929,1249:0,ramazan ay gitmek fırsat bul yeşil iç hoş düzgü mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+930,1249:1,i̇ftar önce sonra güzel müzik ziyafet sunmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+931,1249:2,esas konu yemek gelin pozitif olamaycağım,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+932,1249:3,aynı fiyat lezzet yemek yemek şehir,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+933,1250:0,mekân bilmek yok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+934,1250:1,kızmak kule karşı eşşsiz manzara meşhur olmak tabiki yer lezzet kalite düşüyor,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+935,1251:0,telefon aramak rezervasyon alamıyoruz deyip oray gitmek istemek masa ora rezerv beyefendi demek oturmak insan görünüş göre açık terslemek ukalâ sevim garson sahip,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+936,1251:1,big chefs isim vermek güvenmek muhit rakîb olmak yüz sürek dolu olabilir böyle gitmek müşteri kaybetmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+937,1252:0,hamburger seviyordum son deneyim mutlu etmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+938,1252:1,sans verecek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+939,1252:2,servi iyi kötü,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+940,1252:3,mekân tasarı iyi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+941,1253:1,iki birbiri lezzet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+942,1253:2,sanir hayatimda yedigim lezzet tavuk gögsü nü yedi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+943,1253:4,hizli servis tesekkür etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+944,1253:5,tatli kriz böyle sahane bastirilabilirdi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+945,1254:0,mekân emniyet mah cafe restorant sartiyla bölüm olusuyor ikisinide denemek gayet genel itibarî güzel mekân kuz bonfile güzel ilgi normal kalabalik mekân içecek genel güzel giriste mini sarküteride alisverise isik tutmak güzel fiyat birazcik fazla,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0
+946,1255:0,gerçek özelligi çesidi bol konu itibarî talep gören sikisik havasiz normal mekân fiyat hayli yüksek süper özelligi yemegi varmak söyleyin arkadaslar,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+947,1256:0,servi yemek kötü restorant bulmak i̇stanbul zor,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+948,1256:1,yenmek kötü kebaplari ukalâ garson lüks restoran ödeyecegini alkol yemek fiyatiyla karsilasirsiniz,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+949,1256:2,belediye islemek ruhsatini acil iptal etmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+950,1257:0,hersey birakin manzarasi yetmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+951,1257:1,deniz sifir oyle gece gemi dolayi olusan dalga islatir korku kapiliyorsunuz kahve ic manzarayi bogazi seyretmek yetmek artti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+952,1258:0,sade manzara başka bence artı değer yok,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+953,1258:1,yer bulabilirseniz,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+954,1258:2,çalışmak kâp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+955,1258:3,saatlerce sıra beklemek ön başka alabiliyor,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+956,1258:4,passion fruit lu donmak içecek beğendi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+957,1258:5,aşşk i memnu vasat ta sahip bence,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+958,1258:6,gitmek mi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+959,1259:0,fena değmek menemen fiyat yüksek,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+960,1259:1,porsiyon olmak büyük kişi rahatlıkla yetmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+961,1259:2,sulu olmak bol ekmek yemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+962,1260:0,anlamiyla harika mekân ic mekân konsept kis mevsim uygun ozellikle kisin kahvalti icin guzel mekân ariyorsaniz bura bi ugrayin derim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+963,1261:1,özellikle güzel hava gitmek deniz kıyı masa oturmak epey bi sır bekleyebilirsiniz,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+964,1261:2,mekân küçük şirin aşk i memnu önce bitirmek gerçek güzel tat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+965,1261:3,servis sıkıntı sevemedim,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+966,1261:4,ayrı bahsetmek meşhur tatlı tl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+967,1262:0,doymak göz aç patates mantı denemek gayet iyi ekstra özellik yok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+968,1262:1,i̇çerisi yemek kokmak çalışmak gerek negatif enerji varmak,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+969,1262:2,i̇nşallah sade gün özgü negatif fıccın in tat damak gitmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+971,1263:0,civar güzel kahvaltı yer girmek duru ö olmak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+972,1263:1,menemen güzel demek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+973,1263:2,kahvaltı seçenek zayıf fotoğraf sözde zengin kahvaltı tabak kararmak,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+974,1263:3,zengin bu normal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+975,1264:0,övmek merak etmek pişman olmak yer,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+976,1264:1,popüler kötü duru mekân tadilât geçirmek zor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+977,1264:2,ad meşhur menemen yi demek domates kabuk ayıklamak hiçbir anlamak,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+978,1264:3,kabuk soymak zor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+979,1264:5,sucuk yumurta sucuk fazla pişmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+980,1265:0,herşey kefil olmak mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+981,1265:1,garson aşçı iyi yemek yemek tabak taklidî bulabilirsiniz tat başka yer bulamak kardeş keep calm and eat from happy moons,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+982,1266:0,ad üzerinde menemen ün sıcak samî esnaf restoran,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+983,1266:1,menemen leziz bal enfes çay olumlu yorum yapmak,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+984,1266:2,karşı lokanta bulunmak derim gitmek menemen bal kaymak güzel kahvaltı yapı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+985,1266:3,fiyat gayet uygun ortalama altı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+986,1267:0,sampi avarajda otobüs yol yapmak mutlaka uğramak yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+987,1267:1,pide çeşitli karadeniz pide tür,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+988,1267:2,özellikle gitmek öte denk gelin gitmek bence,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+989,1268:0,happy moon s ların yüzmek karmak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+990,1268:1,çalışmak kötü,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+991,1268:2,lezzet sıfır,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+992,1268:3,menü alkol bulundurmak tek gerek happy moon s,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+993,1268:4,olmak sokak masat yemek yer yan yapışmak mücedele edemesi cabas,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+994,1269:0,kis aylarinda tercih sebep özellikle kisin kütük ev sahlep içmek olmak güzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+995,1269:1,aparatifleri açliginizi yaristirmak birebir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+996,1269:2,nargile mevcut mekân genelde dolu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+997,1270:0,kuru fasülye tercih etmek düsünülsede tereyagli pilavi dogal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+998,1270:1,kuru hakikaten lezzet iç yagin margarin oldugunu hissetmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+999,1270:2,lezzet yaninda veri küçük aci biberlemek bence sofranin favori,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1000,1271:0,hayal kirikligi uz ilk gittigimdeki tadi ikinci gidisimde bulamadim,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1001,1271:1,ilk gittigimde lezzet gelen dürü gidisimde fiyasko yagli oldugundan yemek arkadaslarla açmak kaldik resmen,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1002,1271:2,mekanin kalabalik olmasindan kaynakliydi dikkat anlam veremedim övgü almasina ragmen böyle olumsuz duru ilginç gelmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1003,1272:0,seyir terasi i̇stanbul seyretmek keyif verdigi yer biri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1004,1272:1,manzarasi sakinlestirir huzur verir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1005,1272:2,personel ilgili,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1006,1272:3,kendi kötü hissetmek mutlu ayrilirsiniz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1007,1273:0,lezzet yemek rahat orta uygun fiyat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+1008,1273:1,tek soru ulaşım birazcık sıkıntı,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1009,1273:2,özel arac nere gireceğimizi kesmek dakika çaba sonununda mekân ulaş,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1010,1273:3,yemek art cafe ortam devam etmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1011,1273:4,aynı zaman tavlamak okey oyun oynamak bölüm,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1012,1273:5,gayet kul uygun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1013,1274:0,yaz güzel mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1014,1274:1,sevdıgım big chef şube arkadaş keyif zaman geçireceğiniz mekân göksun in tekrar gidiceğinizden emin olabilirsiniz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1015,1275:0,manzara kurtarmak mekân,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1016,1275:1,sevmek acikcasi,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1017,1275:2,kofteleri cok cok mukemmel degil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1018,1275:3,idare eder demek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1019,1275:4,guler yuz yok,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1020,1275:5,gurultu ak saat oldukca kalabalik,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1021,1276:0,oturmak süre sürek patlamak mısır getirmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1022,1276:1,durmak saat iç yaklaşık kâse yemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1023,1276:2,ayrı son premier league maç veriyorlardı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1024,1277:0,kuru fasulye lezzet demek söz yok fiyat makul saymak mekân düğü salon bozmak,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+1025,1277:1,nihayet kuru fasulye orta zevk hale getirmek,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1026,1278:0,mekanin konu muhtesem konsept hizmet ürün vasat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+1027,1278:1,anadol hisarinda tarafi göksu dere diger tarafi i̇stanbul bogazinin akip gitmek masmavi sulari,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1028,1278:2,farkli zaman gitmek mekanin kimligi enerji hitap etmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1029,1278:3,mutlaka müdavim vardir çekmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1030,1278:4,mekân iyi islemek söylemek iyi sekil elden geç iyi islemek çikar bura,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1031,1279:0,konu aslinda güzel yer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1032,1279:1,mekanin üst kisminda otursaydik büyük ihtimal manzara vardir maalesef otopark oturdugumuz araba agaçtan sey göremedik,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1033,1279:2,sanir ramazan özel uygulamaydi otopark masa,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1034,1279:3,eger gitmek özellikle mekanin üst katlarinda olmasini isteyin,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1035,1279:4,lezzet konu aman aman lezzet yok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1036,1279:5,manzarasi gitmek diyorsaniz denenebilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1037,1280:0,iç gayet sikmek kredi karti geçer çorbayi kâse düzmek tabak servis personel asik suratli et sade parça geldigi meshur oldugunu anlayamadigim gerek yer,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1038,1281:0,son derece kot servis anlatilamayacak hizmet sekorunden uzak bask dunyada personel,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1039,1281:1,kebapci icin olmak iyi servis guleryuzlu personel bura hayal etmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1040,1281:2,servis personel ko,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1041,1282:0,servis yavastu,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1042,1282:1,garson nie yavas oldugunu sordugumda kisi normal cvbini aldi,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1043,1282:4,kesinlikle tercih etmicem bi,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1044,1283:0,normal pizzalari yeterince in spesifik tadi eksik mekân olarakta cok ozel olmadigindan gitmek yer kanimca,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1045,1284:0,rezalet otesi mekân,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1046,1284:1,cok kâp saba garsonlari hizmet dandik mekân,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1047,1284:2,manzarasi disinda tirt sunu berbat gercek,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1048,1284:3,tatli yemek istemek kalkin bask yer oturun demek terbiye,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1049,1285:0,tevazu yok abartı değmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1050,1285:1,i̇stanbulun iyi döner yapmak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1051,1285:3,servis harika kişilik dükkân yetişmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1052,1285:4,döner yan patates salât süper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1053,1285:5,havuç dilim tatlı denenebilir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1054,1285:6,tek eksik ayran kendi yapmak,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1055,1285:7,böyle yer el yapı ayran şart,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1056,1286:0,mekân güzel menü larca seçenek malesef yemek lezzet değmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1057,1286:1,puan mekân haketmek,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1058,1286:2,kahve içmek ister güzel tercih yemek yemek aynı şe söyleyemeyeceğim,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1059,1287:0,büyük porsiyon anca normal porsiyon olmak küçük pizzalari tavsiye etmek,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1060,1287:2,orta bay küçük dükkân ortaköy uygun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1061,1287:3,hamur fazla ince peynir bol olabilir,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1062,1287:4,domates sos malesef zayif kaldi pizzanin seviye düşürmek,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1063,1287:5,fiyat orta yüksek arasi,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1064,1288:0,bira çoğun akis beğenmek ilk biray bitirmek,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1065,1288:1,boğmak mekân haftasonlari özellikle kalaba,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1066,1289:0,kalaba iç bek ferah güzel mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1067,1289:1,dış çok zaman talep karşılamak sunmak bira menü bura çekici kılmak,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1068,1289:2,yemek çeşit konu zengin değmek lezzet,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1069,1289:3,denemek tavuk schnitzel mükemmel tavuk wrap harika,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1070,1289:4,çeşitli homemade ice tea limonata gerçek başarı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1071,1290:0,et meze basari porsiyon inanilmaz buyuk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1072,1290:1,kisi kisi icin getirmek rahatlikla yemek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1073,1290:2,gitmek kisilik getirmek demek yiyecek sekil geliyor kisi basina tl yaziyorlar cok sacma olmus,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1074,1291:0,çay ideal adres karaköy dem,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1075,1291:1,demek fazla çay çeşit damak zevk bi yer yakalamak kes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1076,1291:2,tavsiye vanilya aroma bourban vanilla tatlı ihtiyaç için dam sakız mastika kek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+1077,1291:3,hizmet ilgi alak herşey şahane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1078,1292:0,iyi gitmek yedi demek yok,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1079,1292:2,oturmak yer yok,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1080,1292:3,meşhur olmak garip gelmek açıkçası,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1081,1293:0,manzara sever,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1082,1293:1,manzara yemek servis olmamis,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1083,1293:2,üste fiyat yemek nazaran uygun degil,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1084,1293:3,yemek gitmek memnuniyet ayrilabilirsiniz manzara seviyorsaniz kes gitmek,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1085,1294:0,kadiköy gitmek zevk almak mekân birtane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1086,1294:1,english pub tarz dekorasyon sahip bira çeşitli fazla tarz mekân,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+1087,1294:2,yemek schinitzel burger denemek bira yanında iyi gitmek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1088,1294:3,kış ay içeri oturmak önermek dekorasyon orta keyif veriyor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1089,1295:0,dekorasyon renk cok sicak sevimli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1090,1295:1,ev yemek yemek isteyenler ideal bur mekân tek şart yiyecegini bilmek lazım hersey cok lezzet degil,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1091,1295:2,servis yavas çalışmak birbiri diyaloglarıni sevmek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1092,1295:3,mekân kalaba olmak stres kontrol bişey kalmiyor sanir,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1093,1296:0,i̇stanbul şube çok güzel değmek çalmak müzik hard rock tan popüler olmak,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1094,1297:0,arka bahçe yorgun alıyor i̇nsa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1095,1297:1,koşuyolu iyi kirpi diyet yapmak sevmek mekân menü sağlık bes uygun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+1096,1298:0,masa yerlesimleri guzel degil oturmak duzeni olmamis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1097,1298:1,yer bulmak zor,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1098,1298:2,cok cesitli caylar fiyatlari yuksek,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1099,1298:3,i̇ngiliz cayi istedigimde sut getirmek gerekce kot oldugunh soylediler garson terslemek,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1100,1299:0,kurufasülye değişik olabilir demek bizce kuru yemek kurufasulyeden gelen hafif şeker tat hayran bırakmak resmen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1101,1299:1,tereyağ pilâv tav yoğurt başarı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1102,1299:2,üzerine bal fındık dökmek sütlâç cezbetmek gözükmek sütlâç tat alamadım muhallebi gibi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1103,1299:3,ayrı hergun çıkarmak fark zeytinyağ yemek başarı,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1104,1299:4,fiyat ortalama ustunde malesef,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

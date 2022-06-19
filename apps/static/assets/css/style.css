@@ -10603,8 +10603,9 @@ div.code-toolbar > .toolbar span:hover {
   height: 40rem;
   position: relative;
   border: none; !important;
-  border-bottom: 2px solid #23b7e5 !important;
+  border-bottom: 8px solid #23b7e5 !important;
 }
+
 
 .upload-center {
   margin: 0;
@@ -10613,6 +10614,28 @@ div.code-toolbar > .toolbar span:hover {
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+  background-color: #e9eaec;
+}
+
+.upload-center:hover{
+  padding: 1rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-color: #1dc4e9;
+  border: 10px solid #3f4d67;
+  border-bottom: none; !important;
+}
+
+.main-upload-icon{
+  font-size: 30rem;
+  color: #333f54;
+}
+
+.main-upload-icon:hover{
+  font-size: 31rem;
+  color: #e9eaec;
+  cursor: pointer !important;
 }
 
 .proceed-btn-center {
@@ -10624,11 +10647,6 @@ div.code-toolbar > .toolbar span:hover {
   background: #333f54 !important;
 }
 
-.main-upload-icon{
-  font-size: 30rem;
-  color: #333f54;
-  cursor: pointer !important;
-}
 #fileUpload
 {
     display: none !important;
@@ -10638,4 +10656,29 @@ div.code-toolbar > .toolbar span:hover {
 {
     width: 80px;
     cursor: pointer;
+}
+
+.header-capstone
+{
+  color: #333f54;
+}
+
+.loading {
+    display: none;
+    border: 16px dashed #1dc4e9; /* Light grey */
+    border-top: 30px double #333f54; /* Blue */
+    border-bottom: 30px double #333f54; /* Blue */
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    animation: spin 2s linear infinite;
+    margin: auto !important;
+    margin-top: 15% !important;
+    padding: 10px;
+  }
+
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }
