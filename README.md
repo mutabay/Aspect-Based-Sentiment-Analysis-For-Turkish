@@ -5,3 +5,8 @@
 >### 170706003 Furkan ÖCALAN  
 >### 170706007 Mustafa Tayyip BAYRAM   
 >#### Project Advisor: Assist. Prof. Dr. Volkan TUNALI  
+
+
+### Multi-label Classification with BERT
+
+
