@@ -7,6 +7,6 @@
 >#### Project Advisor: Assist. Prof. Dr. Volkan TUNALI  
 
 
-### Multi-label Classification with BERT
+### Multi-label Classification with BERT.
 
 
