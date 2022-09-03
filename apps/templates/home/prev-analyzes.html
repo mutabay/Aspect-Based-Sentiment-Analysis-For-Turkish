@@ -1,0 +1,65 @@
+{% extends "layouts/base.html" %}
+{% block title %} Previous Analyzes {% endblock %}
+
+<!-- Specific CSS goes HERE -->
+{% block stylesheets %}
+{% endblock stylesheets %}
+
+{% block content %}
+    <div class="pcoded-content">
+        <div class="pcoded-inner-content">
+            <div class="main-body">
+                <div class="page-wrapper">
+                    <div class="row">
+                        <!--[ Prev Analyzes ] start-->
+                        <div class="col-xl-12 col-md-12">
+                            <div class="card Recent-Users">
+                                <div class="card-header">
+                                    <h5>Previous Analyzes</h5>
+                                </div>
+                                <div class="card-block px-0 py-3">
+                                    <div class="table-responsive">
+                                        <table class="table table-hover">
+                                            <tbody>
+                                            {% for analyze in analyzes %}
+
+                                                <tr class="unread">
+                                                    <td><img class="rounded-circle" style="width:40px;" src="/static/assets/images/widget/chart.jpg" alt="prev-analyzes"></td>
+                                                    <td>
+                                                        <h6 class="mb-1">Filename: {{ analyze }}</h6>
+                                                        <p class="m-0">Username: {{ current_user }}</p>
+                                                    </td>
+                                                    <td>
+                                                        <h6 class="text-muted"><i class="fas fa-circle text-c-green f-10 m-r-15"></i>{{ analyze.createdTime }}</h6>
+                                                    </td>
+                                                    <td>
+                                                        <form  method="POST" action="/prev-analyzes.html" style="display: inline">
+                                                        <button type="submit" id="delete_id" class="label theme-bg2 text-white f-16" style="cursor: pointer; border: none" type="submit" name="delete_id" value={{ analyze.id }}> Delete </button>
+                                                        </form>
+
+                                                        <form  method="POST" action="/prev-analyze.html"  style="display: inline">
+                                                        <button type="submit" id="analyze_id" class="label theme-bg text-white f-16" style="cursor: pointer; border: none" type="submit" name="analyze_id" value={{ analyze.id }}> Details </button>
+                                                        </form>
+                                                    </td>
+                                                </tr>
+
+                                            {% endfor %}
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--[ Recent Users ] end-->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}{% endblock javascripts %}

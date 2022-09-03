@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Reviews>
+  <Review rid="1000">
+    <sentences>
+      <sentence id="1000:0">
+        <text>Manzara sahane evet ama servis rezalet.</text>
+      </sentence>
+      <sentence id="1000:1">
+        <text>Soguk su isteyince, soguk yok, butun sulari disari cikardik diyen garson, siparisten tam 2 saat sonra gelen yemekler, yemegin yaninda soylenen roka ve pureden eser olmamasi, istedigimiz 2 mezenin de kalmamis olmasi.</text>
+      </sentence>
+      <sentence id="1000:2">
+        <text>Yemekler iyi hos, lezzetler iyi ama heyecan verici bi taraflari yok, iyi bir baligi iyi bir sekilde izgara yapmak artik atla deve bi olay degil.</text>
+      </sentence>
+      <sentence id="1000:3">
+        <text>bu servise bu fiyatlar ise cok faZla.</text>
+      </sentence>
+      <sentence id="1000:4">
+        <text>Lacivert beni kalitesinin dusukluguyle cok sasirtti</text>
+      </sentence>
+    </sentences>
+    <Opinions>
+      <opinion category="AMBIENCE#GENERAL" polarity="positive"/>
+      <opinion category="SERVICE#GENERAL" polarity="negative"/>
+      <opinion category="RESTAURANT#GENERAL" polarity="negative"/>
+      <opinion category="FOOD#QUALITY" polarity="positive"/>
+      <opinion category="FOOD#STYLE_OPTIONS" polarity="negative"/>
+      <opinion category="RESTAURANT#PRICES" polarity="negative"/>
+    </Opinions>
+  </Review>
+  <Review rid="1001">
+    <sentences>
+      <sentence OutOfScope="TRUE" id="1001:0">
+        <text>Nerden baslasam bilemedim.</text>
+      </sentence>
+      <sentence id="1001:1">
+        <text>Buraya bu kadar iyi yorum yapanlar her halde daha önce hiç balik yemediler.</text>
+      </sentence>
+      <sentence id="1001:2">
+        <text>Kalamardan ve koladan önce balik geldi ve apar topar önümüze atildi.</text>
+      </sentence>
+      <sentence id="1001:3">
+        <text>ayrica gelen kalamar soguk ve sünger gibiydi.</text>
+      </sentence>
+      <sentence id="1001:4">
+        <text>uzun lafin kisasi kesinlikle ve asla bir daha gitmem ve tavsiyede etmem.</text>
+      </sentence>
+      <sentence id="1001:5">
+        <text>Daha önce de söyledigim gibi büyüdükçe kalitesi düsen yerlerden</text>
+      </sentence>
+    </sentences>
+    <Opinions>
+      <opinion category="RESTAURANT#GENERAL" polarity="negative"/>
+      <opinion category="FOOD#QUALITY" polarity="negative"/>
+      <opinion category="SERVICE#GENERAL" polarity="negative"/>
+    </Opinions>
+  </Review>
+  <Review rid="1002">
+    <sentences>
+      <sentence id="1002:0">
+        <text>Kesinlikle ev yemegi degil - Bu kadar basarisiz ev yemekleri olmasina ragmen ögle saatlerinde ki yogunlugu çözebilmis degilim.</text>
+      </sentence>
+      <sentence id="1002:1">
+        <text>Ya insanlar gerçekten ev yemeginin nasil oldugunu bilmiyorlar.</text>
+      </sentence>
+      <sentence id="1002:2">
+        <text>Ya da herkes benim gibi 1 kere deniyor ve bir daha gitmiyor.</text>
+      </sentence>
+      <sentence id="1002:3">
+        <text>1 kere denedigim fiyatlarinin yüksek yemeklerinin lezzetsiz oldugu bir mekan önermiyorum.</text>
+      </sentence>
+    </sentences>
+    <Opinions>
+      <opinion category="RESTAURANT#PRICES" polarity="negative"/>
+      <opinion category="RESTAURANT#GENERAL" polarity="negative"/>
+      <opinion category="FOOD#QUALITY" polarity="negative"/>
+    </Opinions>
+  </Review>
+  <Review rid="1003">
+    <sentences>
+      <sentence id="1003:0">
+        <text>mekanın girişinde kasap reyonu ışıltılı,sıcak bir ortam yaratılmaya çalışılmış manzara olmadığı için bulunduğu konumda pek samimi bulmadım.</text>
+      </sentence>
+      <sentence id="1003:1">
+        <text>garsonumuz ilgisizdi biz söyledikce yaptı buda benim restauranttan beklentimi zayıflatıyor.</text>
+      </sentence>
+      <sentence id="1003:2">
+        <text>lokumun daha iyisini yedim küşleme güzeldi.</text>
+      </sentence>
+      <sentence OutOfScope="TRUE" id="1003:3">
+        <text>şazeli salata yani...</text>
+      </sentence>
+      <sentence id="1003:4">
+        <text>bilemedim mekana daha sonra belki bir şans daha verebilirim.</text>
+      </sentence>
+    </sentences>
+    <Opinions>
+      <opinion category="RESTAURANT#GENERAL" polarity="neutral"/>
+      <opinion category="AMBIENCE#GENERAL" polarity="negative"/>
+      <opinion category="FOOD#QUALITY" polarity="positive"/>
+      <opinion category="SERVICE#GENERAL" polarity="negative"/>
+    </Opinions>
+  </Review>
+  <Review rid="1004">
+    <sentences>
+      <sentence id="1004:0">
+        <text>2 sene önce hızlı bir kahvaltı yapmak için geldiğimiz mekana dair hatırımda kalan 6 tl lik çayı oldu:</text>
+      </sentence>
+      <sentence id="1004:1">
+        <text>) menüde dikkat etmemiştik ama hesap gelince ufak bir şok yaşamıştık😩 güzel olabilir ama kahvaltıdan fazla ödediğimiz çay yüzünden bir daha uğramadık.</text>
+      </sentence>
+    </sentences>
+    <Opinions>
+      <opinion category="DRINKS#PRICES" polarity="negative"/>
+      <opinion category="RESTAURANT#GENERAL" polarity="positive"/>
+    </Opinions>
+  </Review>
+  <Review rid="1005">
+    <sentences>
+      <sentence id="1005:0">
+        <text>Şatobiryanı öneririm.</text>
+      </sentence>
+      <sentence id="1005:1">
+        <text>Sosu tereyagli ve yumusak .</text>
+      </sentence>
+      <sentence id="1005:2">
+        <text>Sert et sevmeyenler icin cok lezzetliydi.</text>
+      </sentence>
+      <sentence id="1005:3">
+        <text>Guvecte yogurt ve salatayla iyi bir uclu oldu.</text>
+      </sentence>
+      <sentence id="1005:4">
+        <text>Servisi hizli valesi var.</text>
+      </sentence>
+      <sentence id="1005:5">
+        <text>Acik mekanda ise gardenya bolumu guzel.</text>
+      </sentence>
+      <sentence id="1005:6">
+        <text>Kalabalik icin ideal.</text>
+      </sentence>
+      <sentence OutOfScope="TRUE" id="1005:7">
+        <text>Yaninda cafe ve nargile bolumu var.</text>
+      </sentence>
+    </sentences>
+    <Opinions>
+      <opinion category="RESTAURANT#GENERAL" polarity="positive"/>
+      <opinion category="AMBIENCE#GENERAL" polarity="positive"/>
+      <opinion category="FOOD#QUALITY" polarity="positive"/>
+      <opinion category="SERVICE#GENERAL" polarity="positive"/>
+    </Opinions>
+  </Review>
+</Reviews>

@@ -1,0 +1,50 @@
+.loader {
+  border: 8px solid #f3f3f3; /* Light grey */
+  border-top: 8px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  animation: spin 2s linear infinite;
+  display: none;
+  margin: auto;
+}
+
+.loader.active {
+  display: block;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+h1 {
+  text-align: center;
+}
+
+textarea {
+  width: 100%;
+}
+
+#annotationWindow {
+  line-height: 2rem;
+}
+
+.word:hover {
+  color: red;
+  font-weight: bold;
+}
+ 
+#helptext {
+  font-weight: bold;
+}
+
+.consoleCard {
+  max-height: 200px;
+  overflow: auto;
+}
+
+.window {
+  max-height: 300px;
+  overflow: auto;
+}

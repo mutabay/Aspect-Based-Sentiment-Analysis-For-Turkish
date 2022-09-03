@@ -1,0 +1,91 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Dashboard {% endblock %}
+
+<!-- Specific CSS goes HERE -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+
+
+<div class="pcoded-content">
+    <div class="pcoded-inner-content">
+        <!-- [ breadcrumb ] start -->
+        <div class="page-header">
+            <div class="page-block">
+                <div class="row align-items-center">
+                    <div class="col-md-12">
+                        <div class="page-header-title">
+                            <h5 class="m-b-10">Analyze Results</h5>
+                        </div>
+                        <ul class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="/"><i class="feather icon-home"></i></a></li>
+                            <li class="breadcrumb-item"><a href="/analyze">Analyze Result Chart</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- [ breadcrumb ] end -->
+        <div class="main-body">
+            <div class="page-wrapper">
+                <!-- [ Main Content ] start -->
+                <div class="row">
+                    <!-- [ Bar Chart ] start -->
+                    <div class="col-md-12 col-xl-12">
+                        <div class="card">
+                            <div class="card-header">
+                                <h5>Bar Chart</h5>
+                            </div>
+                            <div class="card-block">
+                                <div id='bar-chart' class='bar-chart' style="height: auto"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-6">
+                        <div class="card">
+                            <div class="card-header">
+                                <h5>Donut Chart</h5>
+                            </div>
+                            <div class="card-block">
+                                <div id='don-chart' class='don-chart' style="height: auto"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-6">
+                        <div class="card">
+                            <div class="card-header">
+                                <h5>Word Cloud</h5>
+                            </div>
+                            <div class="card-block">
+                                <div id='word-cloud' class='word-cloud' style="height: auto"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- [ Main Content ] end -->
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+
+{% block javascripts %}
+    <script src="../../static/file_operations/main.js"></script>
+    <script src="../../static/file_operations/import.js"></script>
+    <script src="../../static/file_operations/metadata.js"></script>
+    <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+    <script type='text/javascript'>
+      var bar_graph = {{graphJSON_bar | safe}};
+      Plotly.plot('bar-chart',bar_graph,{});
+      var don_graph = {{graphJSON_don | safe }};
+      Plotly.plot('don-chart',don_graph,{});
+      var word_cloud = {{ graphJSON_word_cloud | safe }};
+      Plotly.plot('word-cloud', word_cloud, {});
+    </script>
+{% endblock javascripts %}
