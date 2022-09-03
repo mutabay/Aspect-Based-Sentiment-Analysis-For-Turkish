@@ -21,7 +21,7 @@
 ***************
 ### Data
 
-- Semaval16 Turkish data is used as a data.
+- Semeval 2016 Turkish data is used as a data.
 
 ***************
 
