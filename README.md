@@ -127,7 +127,7 @@ Complete project reports and documentation are available in the [Documents](Docu
 
 ## 🔗 Related Resources
 
-Similar app: [Credit Card Fraud Detection Repository]([https://github.com/mutabay/credit-card-fraud-detection](https://github.com/mutabay/Credit_Card_Fraudulent_Detection))
+Similar app: [Credit Card Fraud Detection Repository]((https://github.com/mutabay/Credit_Card_Fraudulent_Detection))
 
 ---
 
